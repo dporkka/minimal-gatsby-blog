@@ -8,8 +8,7 @@ See the man above, jumping between the canyons? He wasn't always a canyon jumper
 
 Every day he would widen the gap between the dirt mounds and jump a little further. Until one-day his dirt mounds turned into canyons. This year he became the best canyon jumper in Utah.
 
-No, not really, but here are some tips to help you cross your own canyons and achieve greatness in 2020 and beyond.
-
+No, not really, but here are some tips some tips I've learned from others and remixed to help you cross your own canyons and achieve greatness in 2020 and beyond.
 1\. **Set SMART goals**
 
 Before you start working towards your goals, it's important to make sure your goals are **S**pecific, **M**easureable, **A**chievable, **R**elevant, and **T**ime-Bound.
@@ -19,6 +18,8 @@ For example:
 A SMART goal would be: I want to increase sales by 10% in three months.
 
 A goal that needs to be better defined would be: I want to have a successful business.
+
+(SMART goals were likely first coined by Peter Drucker.)
 
 2\. **Start small**
 
