@@ -5,7 +5,7 @@ import Metadata from "../components/metadata"
 const Contact = () => {
   return (
     <Layout>
-      <Metadata title="Contact" description="Get in touch with us" />
+      <Metadata title="Contact" description="Email Me" />
       <h1>Email Me:</h1>
       <p>davidporkka[at]gmail.com</p>
     </Layout>
