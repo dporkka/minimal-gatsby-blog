@@ -19,7 +19,7 @@ const Index = () => {
       <a href="/projects">See All Projects</a>
       <br></br>
       <h2 className="latestPosts"><strong>Latest Posts:</strong></h2>
-      <a href="/blog/underrated-things"><h2>Underrated Things</h2></a><br></br><br></br>
+      <a href="/blog/underrated-things"><h2>Things That are Underrated</h2></a><br></br><br></br>
       <a href="/blog/canyon-jumping"><h2>The Lost Art of Canyon Jumping</h2></a>
       <p>How to achieve your goals</p>
       <a href="/blog/shoe-flash"><h2>Things Can Change in the Flash of a Shoe</h2></a>

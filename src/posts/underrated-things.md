@@ -1,5 +1,5 @@
 ---
-title: "Things That Are Underrated"
+title: "Things That are Underrated"
 date: "2020-06-13"
 ---
 
