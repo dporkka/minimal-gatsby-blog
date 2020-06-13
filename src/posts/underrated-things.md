@@ -3,13 +3,13 @@ title: "Things That are Underrated"
 date: "2020-06-13"
 ---
 
-**Jump ropes** — Besides teenage girls and boxers preparing for their next big fight, the jump rope is largely ignored by most people. I just picked up a jump rope this week and was humbled by the workout I had after just a few minutes of jumping -- the bottom of my feet were still sore the next day! If it's been a few years or a decade since you last jump roped, I highly recommend jumping roping again, you probably won't regret it.
+**Jump ropes** — Besides teenage girls and boxers preparing for their next big fight, the jump rope is largely ignored by most people. I just picked up a jump rope this week and was humbled by the workout I had after just a few minutes of jumping -- the bottom of my feet were still sore the next day! If it's been a few years or a decade since you last jump roped, I highly recommend jumping rope again, you probably won't regret it.
 
 **Outdoor playgrounds** — If you're too embarrased to start jump roping, you can also get a get a grueling workout on a kids playset, if you know what you're doing. Legend has it that the original gym rats were all playset trained. Try doing some pull ups or dips next time you're near one and gradually progress to muscle-ups and horizontal ring work. 
 
-**Walking** — While high-intensity exercise is all the rage lately with the fitness gurus, no form of exercise is more conducive to generating ideas than walking. I walk more to think than see things or go places. I thought about writing this list while walking.
+**Walking** — While high-intensity exercise is all the rage lately with the fitness gurus, no form of exercise is more conducive to generating ideas than walking. I walk more to think than see things or go places. I came up with this list while walking.
 
-**Tiny notepads** — When walking or not walking, make sure you have something to jot down your good and bad ideas. I like to carry around a waiter notepad that can fit a pocket. It also comes in handy when I need to look like I know what I'm doing. No one questions someone writing intently with a tiny notepad. 
+**Tiny notepads** — When walking or not walking, make sure you have something to jot down your good and bad ideas. I like to carry around a waiter notepad that can fit in my pocket. It also comes in handy when I need to look like I know what I'm doing. No one questions someone writing intently on a tiny notepad. 
 
 **Multicolored pens** — If you're walking with a tiny notepad, you're also going to need a pen. The problem with pens though is that they're bound to break. You might feel tempted to carry a backup pen, but that would be rediculous on a walk around the block. Instead, have the built-in redundancy of five pens in one pen and also five different colors. But seriously, these pens are awesome and they break up the monotany of black and blue ink. 
 
@@ -19,7 +19,7 @@ date: "2020-06-13"
 
 If you have a triple monitor setup, you probably already have done this step and can safely disregard this tip.
 
-**Harmonicas** — If you ever find yourself about to get into a serious altercation, but have a harmonica in your pocket, you'll probably survive. There's almost no situation that can't be improved by carrying a harmonica with you. 
+**Harmonicas** — If you ever find yourself in a serious situation, but have a harmonica in your pocket, you'll probably survive. There's almost no situation that can't be improved by carrying a harmonica with you. 
 
 If you're going on a camping trip where you need to pack light, yet also jam in the car, signal for help on the trail, and break the windows on your friend's car underwater when he got too relaxed behind the wheel and drove into a lake; a harmonica can come in handy.
 
