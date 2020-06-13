@@ -3,7 +3,7 @@ import Layout from "../components/layout"
 import Metadata from "../components/metadata"
 import ReactGA from 'react-ga';
 
-ReactGA.initialize('G-B8FBT2ER6D');
+ReactGA.initialize('GTM-52QP48X');
 ReactGA.pageview(window.location.pathname + window.location.search);
 
 const Index = () => {
