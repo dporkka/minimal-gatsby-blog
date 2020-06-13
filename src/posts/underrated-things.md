@@ -3,9 +3,9 @@ title: "Things That are Underrated"
 date: "2020-06-13"
 ---
 
-**Jump ropes** — Besides teenage girls and boxers preparing for their next big fight, the jump rope is largely ignored by most people. I just picked up a jump rope this week and was humbled by the workout I had after just a few minutes of jumping -- the bottom of my feet were still sore the next day! If it's been a few years or a decade since you last jump roped, I highly recommend jumping rope again, you probably won't regret it.
+**Jump ropes** — Besides teenage girls and boxers preparing for their next big fight, the jump rope is largely ignored by most people. I just picked up a jump rope this week and was humbled by the workout I had after just a few minutes of jumping — the bottom of my feet were still sore the next day! If it's been a few years or a decade since you last jump roped, I highly recommend jumping rope again, you probably won't regret it.
 
-**Outdoor playgrounds** — If you're too embarrased to start jump roping, you can also get a get a grueling workout on a kids playset, if you know what you're doing. Legend has it that the original gym rats were all playset trained. Try doing some pull ups or dips next time you're near one and gradually progress to muscle-ups and horizontal ring work. 
+**Outdoor playgrounds** — If you're too embarrased to start jump roping, you can also get a get a grueling workout on a kids playset, if you know what you're doing. Legend has it that the original bodybuilders were all playset trained. Try doing some pull-ups or dips next time you're near one and gradually progress to muscle-ups and horizontal ring work. 
 
 **Walking** — While high-intensity exercise is all the rage lately with the fitness gurus, no form of exercise is more conducive to generating ideas than walking. I walk more to think than see things or go places. I came up with this list while walking.
 
