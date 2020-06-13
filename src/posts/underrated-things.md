@@ -15,7 +15,7 @@ date: "2020-06-13"
 
 **Big monitors** — I just bought a second monitor for my laptop last year and it was the best tech-related buying decision I made, possibly ever. I've saved so much time being able to look at multiple windows at the same time that I feel years younger. This comes in super handy when doing web development work, but almost anyone who browses the web will probably find that a larger monitor saves them a lot of time, over time. 
 
-**Keyboard shortcuts** — If you already have a big monitor or dual monitor, the next step you can take to save some time and take back the years from your life, would be to learn some keyboard short keys. The keyboard shortcuts slighly vary for [mac](https://support.apple.com/en-us/HT201236), [windows](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts), and [linux](https://linuxhint.com/100_keyboard_shortcuts_linux/) systems, so you check out the appropriate shortcuts based on the operating system you're using before you stay young with these shortcuts.
+**Keyboard shortcuts** — If you already have a big monitor or dual monitor, the next step you can take to save some time and take back the years from your life, would be to learn some keyboard short keys. The keyboard shortcuts vary slightly for [mac](https://support.apple.com/en-us/HT201236), [windows](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts), and [linux](https://linuxhint.com/100_keyboard_shortcuts_linux/) systems, so you check out the appropriate shortcuts based on the operating system you're using before you stay young with these shortcuts.
 
 If you have a triple monitor setup, you probably already have done this step and can safely disregard this tip.
 
