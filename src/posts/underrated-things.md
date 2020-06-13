@@ -19,7 +19,7 @@ date: "2020-06-13"
 
 If you have a triple monitor setup, you probably already know most of the shortcuts and can safely disregard this tip.
 
-**Harmonicas** — If you ever find yourself in a serious situation, but have a harmonica in your pocket -- you'll probably survive. There's almost no situation that can't be improved by carrying a harmonica with you. 
+**Harmonicas** — If you ever find yourself in a serious situation, but have a harmonica in your pocket, you'll probably survive. There's almost no situation that can't be improved by carrying a harmonica with you. 
 
 If you're going on a camping trip where you need to pack light, yet also jam in the car, signal for help on the trail, and break the windows on your friend's car underwater after he drove into a lake; a harmonica can come in handy.
 
