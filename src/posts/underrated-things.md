@@ -7,21 +7,21 @@ date: "2020-06-13"
 
 **Outdoor playgrounds** — If you're too embarrased to start jump roping, you can also get a get a grueling workout on a kids playset, if you know what you're doing. Legend has it that the original bodybuilders were all playset trained. Try doing some pull-ups or dips next time you're near one and gradually progress to muscle-ups and horizontal ring work. 
 
-**Walking** — While high-intensity exercise is all the rage lately with the fitness gurus, no form of exercise is more conducive to generating ideas than walking. I walk more to think than see things or go places. I came up with this list while walking.
+**Walking** — While high-intensity exercise is all the rage lately with the fitness gurus, no form of exercise is more conducive to generating ideas than walking. I walk to think more than I walk to see things or go places. I came up with this list while walking.
 
-**Tiny notepads** — When walking or not walking, make sure you have something to jot down your good and bad ideas. I like to carry around a waiter notepad that can fit in my pocket. It also comes in handy when I need to look like I know what I'm doing. No one questions someone writing intently on a tiny notepad. 
+**Tiny notepads** — When walking or not walking, make sure you have something to jot down your good and bad ideas. I like to carry around a waiter notepad that can fit in my pocket. It also comes in handy when I need to look like I know what I'm doing or making people feel important. No one questions someone writing intently on a tiny notepad. 
 
-**Multicolored pens** — If you're walking with a tiny notepad, you're also going to need a pen. The problem with pens though is that they're bound to break. You might feel tempted to carry a backup pen, but that would be rediculous on a walk around the block. Instead, have the built-in redundancy of five pens in one pen and also five different colors. But seriously, these pens are awesome and they break up the monotany of black and blue ink. 
+**Multicolored pens** — If you're walking with a tiny notepad, you're also going to need a pen. The problem with pens though is that they're bound to break. You might feel tempted to carry a backup pen, but that would be rediculous on a walk around the block. Instead, have the built-in redundancy of five pens in one, and also five different colors. But seriously, these pens are awesome and they break up the monotany of black and blue ink. 
 
-**Big monitors** — I just bought a second monitor for my laptop last year and it was the best tech-related buying decision I made, possibly ever. I've saved so much time being able to look at multiple windows at the same time that I feel years younger. This comes in super handy when doing web development work, but almost anyone who browses the web will probably find that a larger monitor saves them a lot of time, over time. 
+**Big monitors** — I just bought a second monitor for my laptop last year and it was one of the best tech-related buying decision I made. I've saved so much time being able to look at multiple windows at the same time that I feel years younger. This comes in super handy when doing web development work, but almost anyone who browses the web will probably find that a larger monitor saves them a lot of time, over time. 
 
-**Keyboard shortcuts** — If you already have a big monitor or dual monitor, the next step you can take to save some time and take back the years from your life, would be to learn some keyboard short keys. The keyboard shortcuts vary slightly for [mac](https://support.apple.com/en-us/HT201236), [windows](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts), and [linux](https://linuxhint.com/100_keyboard_shortcuts_linux/) systems, so you check out the appropriate shortcuts based on the operating system you're using before you stay young with these shortcuts.
+**Keyboard shortcuts** — If you already have a big monitor or dual monitor, the next step you can take to take back the years from your life, would be to learn some keyboard short keys. The keyboard shortcuts vary slightly for [mac](https://support.apple.com/en-us/HT201236), [windows](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts), and [linux](https://linuxhint.com/100_keyboard_shortcuts_linux/) systems, so you check out the appropriate shortcuts based on the operating system you're using.
 
-If you have a triple monitor setup, you probably already have done this step and can safely disregard this tip.
+If you have a triple monitor setup, you probably already know most of the shortcuts and can safely disregard this tip.
 
-**Harmonicas** — If you ever find yourself in a serious situation, but have a harmonica in your pocket, you'll probably survive. There's almost no situation that can't be improved by carrying a harmonica with you. 
+**Harmonicas** — If you ever find yourself in a serious situation, but have a harmonica in your pocket -- you'll probably survive. There's almost no situation that can't be improved by carrying a harmonica with you. 
 
-If you're going on a camping trip where you need to pack light, yet also jam in the car, signal for help on the trail, and break the windows on your friend's car underwater when he got too relaxed behind the wheel and drove into a lake; a harmonica can come in handy.
+If you're going on a camping trip where you need to pack light, yet also jam in the car, signal for help on the trail, and break the windows on your friend's car underwater after he drove into a lake; a harmonica can come in handy.
 
 Just kidding, I don't know if you can easily break a car window with a harmonica under water, but it might work on some models, so always carry a harmonica.   <br />
 <br />
