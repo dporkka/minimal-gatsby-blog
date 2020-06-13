@@ -1,6 +1,10 @@
 import React from "react"
 import Layout from "../components/layout"
 import Metadata from "../components/metadata"
+import ReactGA from 'react-ga';
+
+ReactGA.initialize('G-B8FBT2ER6D');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 const Index = () => {
   return (
