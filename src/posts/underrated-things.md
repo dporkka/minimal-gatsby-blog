@@ -19,9 +19,11 @@ date: "2020-06-13"
 
 If you have a triple monitor setup, you probably already have done this step and can safely disregard this tip.
 
-**Harmonicas** — If you ever find yourself about to get into a serious altercation, but have a harmonica in your pocket, you'll probably survive. There's almost no situation that can't be improved by carrying a harmonica with you: Going on a camping trip where you need to pack light, yet also have a way to jam in the car, signalling for help on the trail, or when you're friend got too relaxed behind the wheel and drove into a lake and the electric windows aren't rolling down when the water starts pouring in -- no biggie, just break em' open with your harmonica! 
+**Harmonicas** — If you ever find yourself about to get into a serious altercation, but have a harmonica in your pocket, you'll probably survive. There's almost no situation that can't be improved by carrying a harmonica with you. 
 
-Just kidding, I don't know if that works, but it might on some models, so always carry a harmonica.   <br />
+If you're going on a camping trip where you need to pack light, yet also jam in the car, signal for help on the trail, and break the windows on your friend's car underwater when he got too relaxed behind the wheel and drove into a lake; a harmonica can come in handy.
+
+Just kidding, I don't know if you can easily break a car window with a harmonica under water, but it might work on some models, so always carry a harmonica.   <br />
 <br />
 
 ----------------------------------------------------------
