@@ -16,9 +16,7 @@
     text-align: center;
     a {
       color: #202020;
-      &:hover {
-        color: #164bc5;
-      }
+      // border-bottom: 2px solid blue;
     }
   }
 }
@@ -43,8 +41,8 @@
   padding: 20px 0;
   a {
     color: #555;
-    padding: 8px 12px;
-    border: 1px solid black;
+    // padding: 8px 12px;
+    border: 2px solid black;
     &:hover {
       color: #164bc5;
       border-color: #222;

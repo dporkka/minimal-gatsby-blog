@@ -1,7 +1,7 @@
 $primaryColor: #3f3844;
-$secondaryColor: #164bc5;
-$thirdColor: #202020;
-$mainWhite: #fff;
+$secondaryColor: blue;
+$thirdColor: #202020; 
+$mainWhite: white;
 
 /* global.css */
 
@@ -15,8 +15,9 @@ body {
   font-size: 100%;
   margin: 0;
   line-height: 1.4283;
-  font-family: "Segoe UI", Roboto, Verdana, "Helvetica Neue", sans-serif;
+  font-family:  "Helvetica Neue", "Segoe UI", Roboto, Verdana, sans-serif;
 }
+
 p {
   font-size:18px;
 }
@@ -26,13 +27,18 @@ h3 {
   font-weight: 400;
   color: $thirdColor;
 } 
-
+a {
+  text-decoration: none;
+  color: blue;
+  border-bottom: 2px solid blue;
+}
 a > h2 {
+  color: black;
   text-decoration: none;
   border-bottom: 2px solid blue;
   display: contents;
 }
-a {
+p > a {
   text-decoration: none;
   color: #202020;
   border-bottom: 2px solid BLUE;
@@ -40,11 +46,11 @@ a {
 }
 a:hover {
   text-decoration: none;
-  color: #164bc5;
-  border-bottom: 2px solid #164bc5;
+  color: blue !important;
+  // border-bottom: 2px solid BLUE;
 }
 a:active {
   text-decoration: none;
-  color: #164bc5;
-  border-bottom: 2px solid #164bc5;
+  // color: #164bc5;
+  border-bottom: 2px solid blue;
 }

@@ -29,7 +29,7 @@ const Index = () => {
       <h2>Hi!</h2>
       <h3>This is where I share things that I'm working on and thinking about.</h3>
       <a href="/about">Learn more about me</a>
-      <h2 className="projetcsHeader"><strong>Current Projects:</strong></h2>
+      <h2 className="projectsHeader"><strong>Current Projects:</strong></h2>
       <a href="https://www.nulango.com"><h2>Nulango</h2></a>
       <p>My brother and I are building this web app to help people quickly learn a new language by sharing the most common words and phrases.</p>
       <a href="https://5minutehealth.com"><h2>5 Minute Health</h2></a>
