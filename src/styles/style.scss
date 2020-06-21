@@ -1,5 +1,5 @@
 $primaryColor: #3f3844;
-$secondaryColor: blue;
+$secondaryColor: #006ce5;
 $thirdColor: #202020; 
 $mainWhite: white;
 
@@ -20,6 +20,7 @@ body {
 
 p {
   font-size:18px;
+  color: #111111;
 }
 h1,
 h2,
@@ -27,33 +28,29 @@ h3 {
   font-weight: 400;
   color: $thirdColor;
 } 
-a {
-  text-decoration: none;
-  color: black;
-  border-bottom: 2px solid blue;
-}
+// a {
+//   text-decoration: none;
+//   color: #006ce5;
+//   border-bottom: 2px solid #006ce5;
+// }
 a > h2 {
-  color: black;
+  color: #006ce5;
   text-decoration: none;
-  border-bottom: 2px solid blue;
+  border-bottom: 2px solid #006ce5;
   display: contents;
-}
-a > h2:hover {
-  color: blue;
 }
 p > a {
   text-decoration: none;
-  color: #202020;
-  border-bottom: 2px solid BLUE;
+  color: #006ce5;
+  border-bottom: 2px solid #006ce5;
   font-size: 18px;
 }
 a:hover {
   text-decoration: none;
-  color: blue;
-  // border-bottom: 2px solid BLUE;
+  color: #006ce5;
+  border-bottom: 2px solid #006ce5;
 }
 a:active {
   text-decoration: none;
-  // color: #164bc5;
-  border-bottom: 2px solid blue;
+  border-bottom: 2px solid #006ce5;
 }
