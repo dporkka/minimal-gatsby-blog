@@ -82,6 +82,7 @@
   .mail-text{
       color: #006ce5;
       margin-left: 30px;
+      font-size: 21px;
   }
 .projects-h2 {
     display: none;
@@ -101,7 +102,6 @@
     }
     .posts-section a {
         position: relative;
-        left: 15px;
         margin-left: 0;
     }
     .projects-section-index {
