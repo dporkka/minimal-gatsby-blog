@@ -56,12 +56,23 @@
     cursor: pointer;
     color: #006ce5;
   }
+  .projects-section {
+    position: relative;
+    top: 36px;
+  }
+  .projects-section-index > p {
+    font-size: 18px;
+    max-width: 575px;
+    margin-left: 60px;
+  }
+  .projects-section-index a {
+      margin-left: 30px;
+  }
   .projects-section > p {
     font-size: 18px;
     max-width: 575px;
     margin-left: 60px;
   }
-
   .projects-section a {
       margin-left: 30px;
   }
@@ -72,32 +83,65 @@
       color: #006ce5;
       margin-left: 30px;
   }
-
-  @media(max-width:550px){
-    .posts-section a {
-    position: relative;
-    left: 15px;
-    margin-left: 0;
-  }
-  .mail-text {
-      text-align: center;
-      margin-left: 0px;
-  }
-  .contactMe {
-      text-align: center;
-  }
-  .latestPosts {
-    text-align: center;
-  }
-  .projects-section > p {
-    font-size: 18px;
-    max-width: 575px;
-    margin-left: 0px;
+.projects-h2 {
+    display: none;
 }
+.genomediv {
+    height: auto;
+    overflow-x: auto;
+}
+ .genome {
+     height: auto;
+     overflow-x: auto;
+ }
+@media(max-width:550px){
+    .projects-section {
+        position: relative;
+        top: 6px;
+    }
+    .posts-section a {
+        position: relative;
+        left: 15px;
+        margin-left: 0;
+    }
+    .projects-section-index {
+        position: relative;
+        top: 6px;
+    }
+    .posts-section-index a {
+        position: relative;
+        left: 15px;
+        margin-left: 0;
+    }
+    .mail-text {
+        text-align: center;
+        margin-left: 0px;
+    }
+    .contactme {
+        text-align: center;
+    }
+    .latestPosts {
+        text-align: center;
+    }
+    .projects-section-index > p {
+        font-size: 18px;
+        max-width: 575px;
+        margin-left: 0px;
+    }
+    .projects-section > p {
+        font-size: 18px;
+        max-width: 575px;
+        margin-left: 0px;
+    }
     .projectsHeader {
+        text-align: center;
+    }
+    .projects-section-index a {
+        margin-left: 0px;
         text-align: center;
     }
     .projects-section a {
         margin-left: 0px;
+        text-align: center;
     }
 }

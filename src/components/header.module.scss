@@ -98,8 +98,8 @@
 }
 
 .nav-container {
-  position: relative;
-  top: 13px;
+  position: absolute;
+  top: 26px;
   left: 3px;
   padding: 0px;
   right: 0;
@@ -150,8 +150,6 @@
       color: black;
     }}
 }
-
-
 // .active-menu-item {
 //   // font-weight: 600 !important;
 //   border-bottom: 2px solid black;

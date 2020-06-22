@@ -30,7 +30,7 @@ const Index = () => {
       <h2>Hi!</h2>
       <h3>This is where I share things that I'm working on and thinking about.</h3>
       <a href="/about"><button className="learn-about-me">Learn more about me</button></a>
-      <div className="projects-section">
+      <div className="projects-section-index">
       <h2 className="projectsHeader"><strong>Current Projects</strong></h2>
       <a href="https://www.nulango.com" className="project1"><h2>Nulango</h2></a>
       <p>My brother and I are building this web app to help people quickly learn a new language by sharing the most common words and phrases.</p>
@@ -50,11 +50,10 @@ const Index = () => {
       </div>
       <br></br>
       <div className="contact-section">
-      <h2 className="contactMe"><strong>Email Me</strong></h2>
+      <h2 id="contactme"><strong>Email Me</strong></h2>
       <p className="mail-text">davidporkka[at]gmail.com</p>
       </div>
     </Layout>
-
   )
 }
 

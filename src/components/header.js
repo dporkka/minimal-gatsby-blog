@@ -51,7 +51,7 @@ const Header = () => {
             </Link>
           </li>
           <li>
-            <Link to="/contact/" activeClassName={headerStyles.activeMenuItem}>
+            <Link to="/#contactme" activeClassName={headerStyles.activeMenuItem}>
               Email
             </Link>
           </li>

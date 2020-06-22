@@ -7,7 +7,7 @@ const About = () => {
   return (
     <Layout>
       <Metadata title="About" description="Get to know me" />
-     <h1>About Me:</h1>
+     <h2 className="about-me-h2">About Me:</h2>
      <h3>Work:</h3>
      <p>Web development, writing, and entrepreneurial <a href="/projects">ventures</a></p>
      <h3>Hobbies:</h3>
@@ -23,8 +23,8 @@ const About = () => {
      <h3>Location:</h3>
      <p>U.S.</p>
      <h3>Genome:</h3>
-     <div class="genomediv">
-     <p class="genome">ATGAAAATGAACAACAAAACTGTCATCACCCAGTTTCTCCTCCTGGGACTGCCCATTTCCCTAGAGTACA
+     <div className="genomediv">
+     <p className="genome">ATGAAAATGAACAACAAAACTGTCATCACCCAGTTTCTCCTCCTGGGACTGCCCATTTCCCTAGAGTACA
 AACACCTGTTCTATGCCCTGTTTCTGGCCATGTACCTCACCACTGTCCTGGGAAACCTGCTAATAATTGT
 CCTCATTAAACTGGACTCCCATCTCCACACACCAATGTACTTGTTTCTCAGCAACCTCTCCTTCTCTGAC
 CTCTGCTTTTCCTCTGTCACAATGCCCAAAATGCTGCATAATATGCAGAGCCAGGACCCATCCATCCCCT
