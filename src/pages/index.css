@@ -22,7 +22,7 @@
     padding: 6px 11px;
     background: white;
     border-radius: 4px;
-    font-size: 16px;
+    font-size: 17px;
     border: 1px solid black;
     margin-bottom: 10px;
   }
@@ -35,7 +35,7 @@
     padding: 6px 11px;
     background: white;
     border-radius: 4px;
-    font-size: 16px;
+    font-size: 17px;
     border: 1px solid black;
   }
   .projectsBtn:hover {
@@ -47,7 +47,7 @@
     padding: 6px 11px;
     background: white;
     border-radius: 4px;
-    font-size: 16px;
+    font-size: 17px;
     border: 1px solid black;
     margin: 4px 0px 8px 0;
   }
@@ -117,7 +117,7 @@
         text-align: center;
         margin-left: 0px;
     }
-    .contactme {
+    #contactme {
         text-align: center;
     }
     .latestPosts {
