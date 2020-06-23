@@ -1,3 +1,11 @@
+a.dp  {
+  position: relative;
+  left: -20px;
+  // top: -7px;
+  font-size: 24px !important;
+  bottom: 7px;
+  font-family: serif;
+}
 .header {
   height: 49px;
   background-position: center center;
@@ -32,7 +40,7 @@
   font-weight: 400;
   line-height: 1.2;
   letter-spacing: 2.5px;
-  display: none;
+  // display: none;
 
   a {
     position: relative;
@@ -160,22 +168,18 @@
   border-bottom: 2px solid black;
 }
 }
-@media (max-width: 800px){
-  .nav-list{
-    margin: 0;
-    display: flex;
-    flex-flow: wrap;
-    flex-direction: row;
-    padding: 0;
-    list-style: none;
-    position: relative;
-    top: -18px;
-    font-size: 7px;
-    justify-content: center;
-    z-index: 10;
-  }
-}
+
 @media (max-width:500px){
+  .dp {
+    left: -6px !important;
+    font-size: 24px !important;
+    bottom: 8px;
+  }
+  .nav-container {
+    position: absolute;
+    top: 26px;
+    left: 7px;
+  }
   .nav-list {
     margin: 0;
     display: flex;
@@ -185,12 +189,11 @@
     list-style: none;
     position: relative;
     top: -37px;
-    left: -13px;
+    left: 3px;
     font-size: 7px;
     justify-content: center;
     z-index: 10;
-    width: 110%;
-  
+    width: 100%;
     a {
       text-transform: uppercase;
       color: #000;
@@ -212,14 +215,7 @@
     color: black;
   }}
 }
-// .dp {
-//   display: none !important;
-// }
-// @media (min-width:500px){
-//   .brand > a.dp {
-//     display:none;
-//   }
-//   }
+
 @media(min-width:800px){
 .nav-list li {
     letter-spacing: 0.05em;

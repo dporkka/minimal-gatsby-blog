@@ -22,7 +22,7 @@ const Header = () => {
       <div className={headerStyles.heroContent}>
         <p className={headerStyles.brand}>
           <Link className="davidporkka"to="/">{data.site.siteMetadata.title}</Link>
-          {/* <Link className="dp" to="/">DP</Link> */}
+          {/* { <Link className="dp" to="/">DP</Link>} */}
         </p>
         <p className={headerStyles.description}>
           {data.site.siteMetadata.description}
@@ -31,13 +31,18 @@ const Header = () => {
       <nav className={headerStyles.navContainer}>
         <ul className={headerStyles.navList}>
           <li>
-            <Link to="/" activeClassName={headerStyles.activeMenuItem}>
-              Now
+            <Link to="/" className={headerStyles.dp} activeClassName={headerStyles.activeMenuItem}>
+              DP
             </Link>
           </li>
           <li>
-            <Link to="/blog/" activeClassName={headerStyles.activeMenuItem}>
-              Blog
+            <Link to="/about/" activeClassName={headerStyles.activeMenuItem}>
+              Bio
+            </Link>
+          </li>
+          <li>
+            <Link to="/now/" activeClassName={headerStyles.activeMenuItem}>
+              Now
             </Link>
           </li>
           <li>
@@ -46,10 +51,11 @@ const Header = () => {
             </Link>
           </li>
           <li>
-            <Link to="/about/" activeClassName={headerStyles.activeMenuItem}>
-              About
+            <Link to="/blog/" activeClassName={headerStyles.activeMenuItem}>
+              Blog
             </Link>
           </li>
+       
           <li>
             <Link to="/#contactme" activeClassName={headerStyles.activeMenuItem}>
               Email

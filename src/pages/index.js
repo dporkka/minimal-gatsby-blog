@@ -27,15 +27,17 @@ const Index = () => {
   return (
     <Layout>
       <Metadata title="Projects" description="home page" />
-      <h2>Hi!</h2>
+      <div className="intro">
+      <h2 className="hi">Hi!</h2>
       <h3>This is where I share things that I'm working on and thinking about.</h3>
-      <a href="/about"><button className="learn-about-me">Learn more about me</button></a>
+      {/* <a href="/now"><button className="learn-about-me">What I&rsquo;m doing now</button></a> */}
+      </div>
       <div className="projects-section-index">
       <h2 className="projectsHeader"><strong>Current Projects</strong></h2>
       <a href="https://www.nulango.com" className="project1"><h2>Nulango</h2></a>
-      <p>My brother and I are building this web app to help people quickly learn a new language by sharing the most common words and phrases.</p>
-      <a href="https://5minutehealth.com" className="project2"><h2>5 Minute Health</h2></a>
-      <p> After working in a grocery store and seeing the difference nutrition made in my life and other peoples’ lives, I decided to share what I’ve learned about health through this website.</p>
+      <p>My brother and I are building this web app to help people efficiently learn a new language by sharing the most common words and phrases for the most popular languages.</p>
+      <a href="/" className="project2"><h2>This Site</h2></a>
+      <p> I just converted this site over from WordPress to Gatsby, so I'm still adding more features to this static site and adding new content weekly. Stop by soon to see the upgraded version.</p>
       <a href="https://ochemshop.com" className="project3"><h2>O-Chem Shop</h2></a>
       <p>I built this site to provide organic chemistry products and resources to chemistry students and professionals.</p>
       <a href="/projects" className="seeProjects"><button className="projectsBtn">See All Projects</button></a>
