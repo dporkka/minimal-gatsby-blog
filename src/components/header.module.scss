@@ -62,7 +62,35 @@ a.dp  {
   }
 }
 
-
+@media(max-width: 1100px) and (min-width:501px){
+  .brand > li > a {
+    display: none;
+    position: relative;
+    top: 3px;
+    color: #3f3844;
+    left: -142px;
+    text-decoration: none;
+  
+    a {
+      color: #3f3844;
+      position: relative;
+      top: 6px;
+      // color: gray;
+      left: -32px;
+      text-decoration: none;
+    }
+    a:hover {
+      border-bottom: 2px solid black;
+      text-decoration: none;
+      color: black;
+    }
+    a:active {
+      border-bottom: 2px solid black;
+      text-decoration: none;
+      color: black;
+    }
+  }
+}
 .description {
   margin: 0;
   padding: 0 0 10px;
@@ -130,45 +158,7 @@ a.dp  {
       color: black;
     }}
 }
-// .active-menu-item {
-//   // font-weight: 600 !important;
-//   border-bottom: 2px solid black;
-// }
-// @media(min-width:600){
-// .active-menu-item {
-//   // font-weight: 600 !important;
-//   border-bottom: 2px solid black;
-// }
-// }
-@media(max-width: 1100px) and (min-width:501px){
-  .brand > li > a {
-    display: none;
-    position: relative;
-    top: 3px;
-    color: #3f3844;
-    left: -142px;
-    text-decoration: none;
-  
-    a {
-      color: #3f3844;
-      position: relative;
-      top: 6px;
-      // color: gray;
-      left: -32px;
-      text-decoration: none;
-    }
-    a:hover {
-      border-bottom: 2px solid black;
-      text-decoration: none;
-      color: black;
-    }
-    a:active {
-      border-bottom: 2px solid black;
-      text-decoration: none;
-      color: black;
-    }
-  }
-}
+
 @media (max-width:500px){
   .dp {
     left: -6px !important;
@@ -216,3 +206,33 @@ a.dp  {
   }}
 }
 
+@media(min-width:800px){
+.nav-list li {
+    letter-spacing: 0.05em;
+    background: none;
+    padding: 5px 23px 4px 0px;
+    margin: 0px;
+    position: relative;
+    left: 0%;
+    top: 20px;
+  
+a {
+  text-transform: uppercase;
+  color: #000;
+  // font-size: 16px;
+  opacity: 0.8;
+  font-weight:400;
+  // position: relative;
+  left: -3px;
+  text-decoration: none;
+  border-bottom: none;
+}
+a:hover {
+  border-bottom: 2px solid black;
+  text-decoration: none;
+}
+a:active {
+  border-bottom: 2px solid black;
+  text-decoration: none;
+}}
+}
