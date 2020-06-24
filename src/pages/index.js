@@ -37,7 +37,7 @@ const Index = () => {
       <a href="https://www.nulango.com" className="project1"><h2>Nulango</h2></a>
       <p>My brother and I are building this web app to help people efficiently learn a new language by sharing the most common words and phrases for the most popular languages.</p>
       <a href="/" className="project2"><h2>This Site</h2></a>
-      <p> I just converted this site over from WordPress to Gatsby, so I'm still adding more features to this static site and adding new content weekly. Stop by soon to see the upgraded version.</p>
+      <p> I just converted my former WordPress.org site to a Gatsby static site. I'm really happy with the speed improvements, but I still need to add more features and content. Stop by again soon to see the upgraded version.</p>
       <a href="https://ochemshop.com" className="project3"><h2>O-Chem Shop</h2></a>
       <p>I built this site to provide organic chemistry products and resources to chemistry students and professionals.</p>
       <a href="/projects" className="seeProjects"><button className="projectsBtn">See All Projects</button></a>

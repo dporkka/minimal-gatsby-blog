@@ -17,7 +17,7 @@ const Projects = () => {
       <p>I built this site to provide organic chemistry products and resources to chemistry students and professionals.
       </p>
       <a href="/" className="project2"><h2>This Site</h2></a>
-      <p> I just converted this site over from WordPress to Gatsby, so I'm still adding more features to this static site and adding new content weekly. Stop by soon to see the upgraded version.</p>
+      <p> I just converted my former WordPress.org site to a Gatsby static site. I'm really happy with the speed improvements, but I still need to add more features and content. Stop by again soon to see the upgraded version.</p>
     </div>
     </Layout>
   )
