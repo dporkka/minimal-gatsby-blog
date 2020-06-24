@@ -143,6 +143,7 @@
     .projects-section {
         position: relative;
         top: 6px;
+        left: 0px;
     }
     .top-div {
         margin-left:0px;
