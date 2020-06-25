@@ -88,6 +88,10 @@
     margin: 4px 0px 8px 0;
     
   }
+  .now-books {
+    border-bottom: 2px solid black;
+    display: inline;
+  }
   .see-posts:hover {
     border: 1px solid #006ce5;
     cursor: pointer;
