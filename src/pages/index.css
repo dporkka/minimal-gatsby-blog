@@ -28,6 +28,12 @@
     white-space: nowrap;
     border: 0px;
   }
+  .now-section {
+    width: 600px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+  }
  .hi {
     font-size: 26px;
     font-weight: 600;
@@ -52,6 +58,10 @@
     border: 1px solid #006ce5;
     cursor: pointer;
     color: #006ce5;
+  }
+  .about-section-two {
+    position: relative;
+    left: 50px;
   }
   .projectsBtn {
     padding: 6px 11px;
