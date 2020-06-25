@@ -163,6 +163,10 @@
         margin-left: auto;
         margin-right: auto;
     }
+    .about-section-two {
+        position: relative;
+        left: 0px;
+    }
     .intro {
         margin-right: auto;
         margin-left: 0px;
