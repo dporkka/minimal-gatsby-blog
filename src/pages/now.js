@@ -50,7 +50,7 @@ const Now = () => {
 <p>Tom Misch's songs are very diverse, but this one is down-tempo, instrumental, contemplative, and representative of the south London jazz scene, which I just starting to appreciate after my brother introduced me to it.</p>
 
 <p><em>A Scent of Lily &ndash; Augustine&nbsp;</em></p>
-<iframe width="560" height="50" src="https://www.youtube.com/embed/HaBYoEjEo2M" frameborder="0" allow="accelerometer; encrypted-media; gyroscope;" allowfullscreen="false"></iframe>
+<iframe width="350" height="50" src="https://www.youtube-nocookie.com/embed/HaBYoEjEo2M?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>I&rsquo;ve listened to this song a lot this month and still can&rsquo;t relate to the lyrics, but love the vocal range of the singer and the constantly changing pitch which builds nicely with melody. Listen to the first minute of it before you decide it&rsquo;s not for you.&nbsp;</p>
 
 <p><strong>Current Beverages</strong></p>
