@@ -17,6 +17,17 @@
     --textLink: yellow;
     --hr: hsla(0, 0%, 100%, 0.2);
   } */
+  #gatsby-announcer {
+    position: relative !important;
+    top: 0px;
+    width: 1px;
+    height: 1px;
+    padding: 0px;
+    overflow: hidden;
+    clip: rect(0px, 0px, 0px, 0px);
+    white-space: nowrap;
+    border: 0px;
+  }
  .hi {
     font-size: 26px;
     font-weight: 600;
