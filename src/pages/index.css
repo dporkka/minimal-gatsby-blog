@@ -157,6 +157,12 @@
     bottom: 4px;
     left: -3px;
     }
+    .now-section {
+        width: 99%;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+    }
     .intro {
         margin-right: auto;
         margin-left: 0px;

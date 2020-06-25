@@ -36,21 +36,21 @@ const Now = () => {
 
 <p><strong>Music</strong></p>
 <p><em>TiedUpRightNow</em> &amp; IknowhowIfeel &mdash; Parcels&nbsp;</p>
-<iframe width="560" height="50" src="https://www.youtube.com/embed/dhAR_VnEAZ8" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="50" src="https://www.youtube.com/embed/c6vwL7XgVz4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="95%" height="50" src="https://www.youtube-nocookie.com/embed/dhAR_VnEAZ8" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="95%" height="50" src="https://www.youtube-nocookie.com/embed/c6vwL7XgVz4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>Love the funky upbeat groove of these songs and the drawn-out vocals that match the vibe perfectly. If you like Jefferson Airplane or The Alan Parsons Project, you&rsquo;ll probably like Parcels.</p>
 
 
 <p><em>Technicolor Beat &mdash; Oh Wonder</em></p>
-<iframe width="560" height="50" src="https://www.youtube.com/embed/W8fmOciEY8U" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="95%" height="50" src="https://www.youtube-nocookie.com/embed/W8fmOciEY8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>Overlapping male and female vocals, complex choreography of various background sounds that blend in an ear-soothing, technicolor beat.</p>
 
-<p><em>The Journey&nbsp; &mdash; Tom Misch</em></p>
-<iframe width="560" height="50" src="https://www.youtube.com/embed/LAxcxUOZcDU" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><em><a href="https://www.youtube.com/watch?v=LAxcxUOZcDU">The Journey&nbsp; &mdash; Tom Misch</a></em></p><p><em></em></p>
+
 <p>Tom Misch's songs are very diverse, but this one is down-tempo, instrumental, contemplative, and representative of the south London jazz scene, which I just starting to appreciate after my brother introduced me to it.</p>
 
-<p><em>A Scent of Lily &ndash; Augustine&nbsp;</em></p>
-<iframe width="350" height="50" src="https://www.youtube-nocookie.com/embed/HaBYoEjEo2M?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><em><a href="https://www.youtube.com/watch?v=HaBYoEjEo2M">A Scent of Lily &ndash; Augustine&nbsp;</a></em></p>
+
 <p>I&rsquo;ve listened to this song a lot this month and still can&rsquo;t relate to the lyrics, but love the vocal range of the singer and the constantly changing pitch which builds nicely with melody. Listen to the first minute of it before you decide it&rsquo;s not for you.&nbsp;</p>
 
 <p><strong>Current Beverages</strong></p>
