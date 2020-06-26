@@ -17,6 +17,10 @@
     --textLink: yellow;
     --hr: hsla(0, 0%, 100%, 0.2);
   } */
+  .home-section {
+    position: relative;
+    top: 20px;
+  }
   #gatsby-announcer {
     position: relative !important;
     top: 0px;
@@ -89,8 +93,13 @@
     
   }
   .now-books {
-    border-bottom: 2px solid black;
-    display: inline;
+    /* border-bottom: 2px solid black;
+    display: inline; */
+  }
+  .now-line {
+    margin-top: 65px;
+    position: relative;
+    bottom: 20px;
   }
   .see-posts:hover {
     border: 1px solid #006ce5;
@@ -177,7 +186,7 @@
      }
     .projects-section {
         position: relative;
-        top: 6px;
+        top: 22px;
         left: 0px;
     }
     .top-div {

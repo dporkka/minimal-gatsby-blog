@@ -12,16 +12,18 @@ const Now = () => {
 <p><a href="https://www.nulango.com">Nulango</a>, a language learning web app with my brother and this site.</p>
 
 <p><strong>Recent Adventures</strong></p>
-<p>This month my family took a road trip out to the <a href="https://en.wikipedia.org/wiki/Badlands_National_Park">Badlands National Park</a> in South Dakota and did some hiking. If you haven't seen the Badlands before you should check them out. The best way that I would describe them as a magestic maze of colorful, dried-up, ancient seabeds that also are surrounded by grass prairies, buttes, and mountainous spires. It was an odd experience, hiking in them, becuase I felt like I was simultaneously hiking a mountain and sandy seabed. After a few days of hiking the steep inclines on these seabeds and through rattlesnake-filled trails, we then got back in the car and drove to Colorado to see my brother and do some more hiking in Estes Park.</p>
 
-<p>Estes Park is a true hikers paradise—it has all the trails you could ever hike and more. Being in the <a href="https://en.wikipedia.org/wiki/Rocky_Mountain_National_Park">Rocky Mountain National Park</a>, you might think they're just a bunch of rocky, mountain trails, but you would be greatly mistaken. Estes park is very diverse and has everything from mountain lakebeds and waterfalls, to grassy slopes with marmot caves, and 14,000 foot climbs that some people use hiking poles, wear helmets, and spiked mountain boots for. Unlike the pro mountaineers, I was just wearing some running shoes, but I definately should have been wearing some hiking shoes on some parts of the trail. The only thing that I didn&rsquo;t like about that trip was the 14-hour ride on the way back to Wisconsin that started in the afternoon and went through the night. That was a bit too many sleepless hours in the car.&nbsp;</p>
-<p><strong>New Discoveries</strong></p>
-<p>Dry-roasted, Planters peanuts. Since picking up a bag at some gas station in Wyoming, I&rsquo;ve  been eating these consistently, and probably excessively, as a mid-day, mid-night, and mid-morning snack.&nbsp;</p>
-<p><strong>Exercise&nbsp;</strong></p>
+<p>This month, my family took a road trip out to the <a href="https://en.wikipedia.org/wiki/Badlands_National_Park">Badlands National Park</a> in South Dakota and did some hiking. If you haven't seen the Badlands before you should check them out. I would describe them as a magestic maze of colorful, dried-up, ancient seabeds that are surrounded by grass prairies, buttes, and mountainous spires. It was odd hiking in them, because I felt like I was simultaneously hiking a mountain and seabed. After a few days of hiking the steep inclines on these seabeds and through rattlesnake-filled trails, we then got back in the car and drove to Colorado to see my brother and do some more hiking in Estes Park.</p>
+
+<p>Estes Park is a true hikers paradise—it has all the trails you could ever hike and more. Being in the <a href="https://en.wikipedia.org/wiki/Rocky_Mountain_National_Park">Rocky Mountain National Park</a>, you might think they're just a bunch of rocky, mountain trails, but you would be greatly mistaken. Estes park is very diverse and has everything from mountain lakebeds and waterfalls, to grassy slopes with marmot caves, and 14,000 foot climbs that some people use hiking poles, wear helmets, and spiked mountain boots for. Unlike the pro mountaineers, I was just wearing some running shoes, but I definately should have been wearing some hiking shoes on some parts of the trail. The only thing that I didn&rsquo;t like about that trip was the 14-hour ride on the way back to Wisconsin that started in the afternoon and went through the night.</p>
+
+<p><strong>New Routines&nbsp;</strong></p>
+
 <p>The scrawny to brawny transformation is underway. This month, I finally picked up a jump rope again, after about 7-10 years of not jump roping. I was really surprised by the workout I had and my feet were still sore the next few days! I also started to run again after not running for a few months. My current running strategy is to run at like 80% effort until I'm tired, then walk for a minute or two, and repeat, usually in quarter-mile increments. I&rsquo;m slowly starting to build my stamina again to run more than a quarter-mile at a time.&nbsp;</p>
 <p> I&rsquo;ve also been doing a lot of pull-ups, using TRX straps to do ab work and cardio, and lifting weights to build some muscle. </p>
 
 <p><strong>Current Music</strong></p>
+
 <p><a href="https://www.youtube.com/watch?v=c6vwL7XgVz4">IknowhowIfeel</a> &amp; <a href="https://www.youtube.com/watch?v=dhAR_VnEAZ8">TiedUpRightNow</a> &mdash; Parcels&nbsp;</p>
 {/* <iframe width="95%" height="50" src="https://www.youtube-nocookie.com/embed/dhAR_VnEAZ8" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="95%" height="50" src="https://www.youtube-nocookie.com/embed/c6vwL7XgVz4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
@@ -40,17 +42,18 @@ const Now = () => {
 <p>I&rsquo;ve listened to this song a lot this month and still can&rsquo;t relate to the lyrics, but love the vocal range of the singer and the constantly changing pitch which builds nicely with melody. Listen to the first minute of it before you decide it&rsquo;s not for you.&nbsp;</p>
 
 <p><strong>Learning</strong></p>
+
 <p>React JS (javascript library), MySQL (database),&nbsp; Amazon Web Services, and Mandarin.</p>
 
 <p><strong>Latest Reads</strong></p>
-<p>I&rsquo;ve been reading about 2 books a week these last few months (mostly non-fiction business and programming books).</p> 
-<p className="now-books">Some of the best business books I&rsquo;ve recently read include:</p>
+
+<p className="now-books">Best business books I&rsquo;ve recently read include:</p>
 <p>• Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship by M. J. DeMarco (Currently reading)</p>
 <p>• Hackers and Painers by Paul Graham</p>
 <p>• Perrenial Seller by Ryan Holiday</p>
 <p>• Anything You Want by Derek Sivers</p>
-<p className="now-books">Some of the best programming books I've recently read inlcude:</p>
-<p>• Eloquent Javascript</p>
+<p className="now-books">Best programming books I've recently read inlcude:</p>
+<p>• Eloquent Javascript (still reading)</p>
 <p>• Minimalist Website Strategy by Justin Page Wood</p>
 <p>I'll add a summary soon to each of these books, but I highly recommend all of them.</p>
 
@@ -60,10 +63,14 @@ const Now = () => {
 <p>Another addicting show that I&rsquo;ve been catching up on is the futuristic, sci-fi show, <em>Altered Carbon</em>, where people can transfer their consciousness into another body via &ldquo;stacks&rdquo; in their neck and live forever, or at least until someone destroys their stack. I&rsquo;ve watched a lot of sci-fi over the years and I would rate this show 10/10.&nbsp;</p>
 
 <p><strong>Movies </strong>(spoiler alert orange)</p>
+
 <p>The Other Guys &mdash; I loved the unconventional beginning of this movie, having the main protagonists randomly die, by jumping off a building and landing on the concrete below. I had to watch that scene again, since it was so unexpected and funny. Besides the intro, this movie was loaded with funny one-liners, situational humor, and plot twists. I think it&rsquo;s worth a watch and would rate it 8.5/10.</p>
 
 <p><strong>Current Beverages</strong></p>
+
 <p>Kick Ass (actual name) dark roast coffee by kicking horse. Despite my primitive way of preparing it, by tossing the grounds in a tea filter and letting it steep, this coffee is some of the best I&rsquo;ve had. Will repeat bi-daily.</p>
+
+<hr className="now-line"></hr>
 
 <p> This page was inspired by <a href="https://sivers.org/">Derek Sivers</a> and the <a href="https://nownownow.com/">Now Project</a>.</p>
     </div>

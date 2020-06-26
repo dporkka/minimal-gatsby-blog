@@ -27,6 +27,7 @@ const Index = () => {
   return (
     <Layout>
       <Metadata title="Projects" description="home page" />
+      <div className="home-section">
       <div className="intro">
       <h2 className="hi">Hi!</h2>
       <h3>This is where I share things that I'm working on and thinking about.</h3>
@@ -54,6 +55,7 @@ const Index = () => {
       <div className="contact-section">
       <h2 id="contactme"><strong>Email Me</strong></h2>
       <p className="mail-text">davidporkka[at]gmail.com</p>
+      </div>
       </div>
     </Layout>
   )
