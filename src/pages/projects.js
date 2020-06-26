@@ -9,15 +9,15 @@ const Projects = () => {
       <div className="projects-section">
       <h2 className="projects-h2">Projects</h2>
       <a className="nulango-projects" href="https://www.nulango.com"><h2>Nulango</h2></a>
-      <p>My brother and I are building this web app to help people quickly learn a new language by sharing the most common words and phrases.</p>
+      <p>Web app to help people quickly learn a language</p>
 
       <a className="5mh-projects"href="https://5minutehealth.com"><h2>5 Minute Health</h2></a>
-      <p> After working in a grocery store and seeing the difference nutrition made in my life and other peoples’ lives, I decided to share what I’ve learned about health through this website.</p>
+      <p>Health and nutrition website with a focus on brain health and lengthening healthspan</p>
       <a className="ochemshop-projects" href="https://ochemshop.com"><h2>O-Chem Shop</h2></a>
-      <p>I built this site to provide organic chemistry products and resources to chemistry students and professionals.
+      <p>Organic chemistry products and resources for chemistry students and professionals
       </p>
       <a href="/" className="project2"><h2>This Site</h2></a>
-      <p> I just converted my former WordPress.org site to a Gatsby static site. I'm still adding new features and content, so stop by again soon to see the upgraded version.</p>
+      <p>Adding new features and content to this Gatsby static site</p>
     </div>
     </Layout>
   )

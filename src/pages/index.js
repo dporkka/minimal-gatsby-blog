@@ -36,11 +36,11 @@ const Index = () => {
       <div className="projects-section-index">
       <h2 className="projectsHeader"><strong>Current Projects</strong></h2>
       <a href="https://www.nulango.com" className="project1"><h2>Nulango</h2></a>
-      <p>My brother and I are building this web app to help people efficiently learn a new language by sharing the most common words and phrases for the most popular languages.</p>
-      <a href="/" className="project2"><h2>This Site</h2></a>
-      <p> I just converted my former WordPress.org site to a Gatsby static site. I'm still adding new features and content, so stop by again soon to see the upgraded version.</p>
+      <p>Web app to help people quickly learn a new language</p>
       <a href="https://ochemshop.com" className="project3"><h2>O-Chem Shop</h2></a>
-      <p>I built this site to provide organic chemistry products and resources to chemistry students and professionals.</p>
+      <p>Organic chemistry products and resources for chemistry students and professionals</p>
+      <a href="/" className="project2"><h2>This Site</h2></a>
+      <p> Adding features and new content to this Gatsby static site </p>
       <a href="/projects" className="seeProjects"><button className="projectsBtn">See All Projects</button></a>
       </div>
       <br></br>

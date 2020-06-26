@@ -19,15 +19,15 @@ const Now = () => {
 
 <p><strong>New Routines&nbsp;</strong></p>
 
-<p>The scrawny to brawny transformation is underway. This month, I finally picked up a jump rope again, after about 7-10 years of not jump roping. I was really surprised by the workout I had and my feet were still sore the next few days! I also started to run again after not running for a few months. My current running strategy is to run at like 80% effort until I'm tired, then walk for a minute or two, and repeat, usually in quarter-mile increments. I&rsquo;m slowly starting to build my stamina again to run more than a quarter-mile at a time.&nbsp;</p>
-<p> I&rsquo;ve also been doing a lot of pull-ups, using TRX straps to do ab work and cardio, and lifting weights to build some muscle. </p>
+<p>The scrawny to brawny transformation is underway. I&rsquo;ve also been doing a lot of pull-ups, using TRX straps to do ab work and cardio, lifting weights to build some muscle, and jump roping to prepare for my next fight.</p>
+<p>Just kidding, I don't plan on fighting anytime soon, and it was the first time I picked up a jump rope after about 7-10. I was really surprised by the workout I had and my feet were still sore the next few days! I also started to run again after not running for a few months. My current running strategy is to run at like 80% effort until I'm tired, then walk for a minute or two, and repeat, usually in quarter-mile increments. I&rsquo;m slowly starting to build my stamina again to run more than a quarter-mile at a time.&nbsp; I'll report later on the effectiveness of this strategy.</p>
 
 <p><strong>Current Music</strong></p>
 
 <p><a href="https://www.youtube.com/watch?v=c6vwL7XgVz4">IknowhowIfeel</a> &amp; <a href="https://www.youtube.com/watch?v=dhAR_VnEAZ8">TiedUpRightNow</a> &mdash; Parcels&nbsp;</p>
 {/* <iframe width="95%" height="50" src="https://www.youtube-nocookie.com/embed/dhAR_VnEAZ8" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="95%" height="50" src="https://www.youtube-nocookie.com/embed/c6vwL7XgVz4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
-<p>Love the funky upbeat groove of these songs and the drawn-out vocals that match the vibe perfectly. If you like Jefferson Airplane or The Alan Parsons Project, you&rsquo;ll probably like Parcels.</p>
+<p>Love the funky upbeat groove these guys have. Their other songs are just as good as the ones above and you should check out their latest album <i><a href="https://www.youtube.com/watch?v=e4TFD2PfVPw">Live Volume 1</a></i>. If you like Jefferson Airplane or The Alan Parsons Project, you&rsquo;ll probably like Parcels.</p>
 
 <p><a href="https://www.youtube.com/watch?v=W8fmOciEY8U">Technicolor Beat &mdash; Oh Wonder</a></p>
 {/* <iframe width="95%" height="50" src="https://www.youtube-nocookie.com/embed/W8fmOciEY8U" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
