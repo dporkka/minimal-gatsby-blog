@@ -20,7 +20,7 @@ const Now = () => {
 <p><strong>New Routines&nbsp;</strong></p>
 
 <p>The scrawny to brawny transformation is underway. I&rsquo;ve also been doing a lot of pull-ups, using TRX straps to do ab work and cardio, lifting weights to build some muscle, and jump roping to prepare for my next fight.</p>
-<p>Just kidding, I don't plan on fighting anytime soon, and it was the first time I picked up a jump rope after about 7-10. I was really surprised by the workout I had and my feet were still sore the next few days! I also started to run again after not running for a few months. My current running strategy is to run at like 80% effort until I'm tired, then walk for a minute or two, and repeat, usually in quarter-mile increments. I&rsquo;m slowly starting to build my stamina again to run more than a quarter-mile at a time.&nbsp; I'll report later on the effectiveness of this strategy.</p>
+<p>Just kidding, I don't plan on fighting anytime soon, and it was the first time I picked up a jump rope after about 7-10 years. I was really surprised by the workout I had and my feet were still sore the next few days! I also started to run again after not running for a few months. My current running strategy is to run at like 80% effort until I'm tired, then walk for a minute or two, and repeat, usually in quarter-mile increments. I&rsquo;m slowly starting to build my stamina again to run more than a quarter-mile at a time.&nbsp; I'll report later on the effectiveness of this strategy.</p>
 
 <p><strong>Current Music</strong></p>
 
