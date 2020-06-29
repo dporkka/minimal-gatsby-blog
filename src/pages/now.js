@@ -19,7 +19,7 @@ const Now = () => {
 
 <p><strong>New Routines&nbsp;</strong></p>
 
-<p>The scrawny to brawny transformation is underway. I&rsquo;ve also been doing a lot of pull-ups, using TRX straps to do ab work and cardio, lifting weights to build some muscle, and jump roping to prepare for my next fight.</p>
+<p>The scrawny to brawny transformation is underway. Lately, I&rsquo;ve been doing a lot of pull-ups, using TRX straps to do ab work and cardio, lifting weights to build some muscle, and jump roping to prepare for my next fight.</p>
 <p>Just kidding, I don't plan on fighting anytime soon, and it was the first time I picked up a jump rope after about 7-10 years. I was really surprised by the workout I had and my feet were still sore the next few days! I also started to run again after not running for a few months. My current running strategy is to run at like 80% effort until I'm tired, then walk for a minute or two, and repeat, usually in quarter-mile increments. I&rsquo;m slowly starting to build my stamina again to run more than a quarter-mile at a time.&nbsp; I'll report later on the effectiveness of this strategy.</p>
 
 <p><strong>Current Music</strong></p>
@@ -52,7 +52,7 @@ const Now = () => {
 <p>• Hackers and Painers by Paul Graham</p>
 <p>• Perrenial Seller by Ryan Holiday</p>
 <p>• Anything You Want by Derek Sivers</p>
-<p className="now-books">Best programming books I've recently read inlcude:</p>
+<p className="now-books">Best programming books I've recently read include:</p>
 <p>• Eloquent Javascript (still reading)</p>
 <p>• Minimalist Website Strategy by Justin Page Wood</p>
 <p>I'll add a summary soon to each of these books, but I highly recommend all of them.</p>
@@ -60,11 +60,10 @@ const Now = () => {
 <p><strong>TV Shows</strong></p>
 
 <p>I haven&rsquo;t been watching much TV lately, but I finished season 4 of <em>Money Heist</em>, which is a show about two elaboratively planned, action-packed, nerve-racking bank heists in Spain. I started watching this show mostly to improve my Spanish, but continued to watch because it was sooo good. Every scene in this show is masterfully crafted and the acting is some of the best I&rsquo;ve seen. I can&rsquo;t wait for the final season to be released.</p>
-<p>Another addicting show that I&rsquo;ve been catching up on is the futuristic, sci-fi show, <em>Altered Carbon</em>, where people can transfer their consciousness into another body via &ldquo;stacks&rdquo; in their neck and live forever, or at least until someone destroys their stack. I&rsquo;ve watched a lot of sci-fi over the years and I would rate this show 10/10.&nbsp;</p>
 
 <p><strong>Movies </strong>(spoiler alert orange)</p>
 
-<p>The Other Guys &mdash; I loved the unconventional beginning of this movie, having the main protagonists randomly die, by jumping off a building and landing on the concrete below. I had to watch that scene again, since it was so unexpected and funny. Besides the intro, this movie was loaded with funny one-liners, situational humor, and plot twists. I think it&rsquo;s worth a watch and would rate it 8.5/10.</p>
+<p>The Other Guys &mdash; I loved the unconventional beginning of this movie, having the main protagonists randomly die, by jumping off a building and landing on the concrete below. I had to watch that scene again, since it was so unexpected and funny. Besides the intro, this movie was loaded with funny one-liners, situational humor, and plot twists. I think it&rsquo;s worth a watch and would rate it 8/10.</p>
 
 <p><strong>Current Beverages</strong></p>
 
