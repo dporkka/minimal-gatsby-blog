@@ -13,9 +13,10 @@ const Now = () => {
 
 <p><strong>Recent Adventures</strong></p>
 
-<p>This month, my family took a road trip out to the <a href="https://en.wikipedia.org/wiki/Badlands_National_Park">Badlands National Park</a> in South Dakota and did some hiking. If you haven't seen the Badlands before you should check them out. I would describe them as a magestic maze of colorful, dried-up, ancient seabeds that are surrounded by grass prairies, buttes, and mountainous spires. It was odd hiking in them, because I felt like I was simultaneously hiking a mountain and seabed. After a few days of hiking the steep inclines on these seabeds and through rattlesnake-filled trails, we then got back in the car and drove to Colorado to see my brother and do some more hiking in Estes Park.</p>
+<p>This month, my family took a road trip out to the <a href="https://en.wikipedia.org/wiki/Badlands_National_Park">Badlands National Park</a> South Dakota and did some hiking. If you haven't seen the Badlands before you should check them out. I would describe them as a majestic maze of colorful, dried-up, ancient seabeds that are surrounded by grass prairies, buttes, and mountainous spires. It was odd hiking in them, because I felt like I was simultaneously hiking a mountain and seabed. After a few days of hiking the steep inclines on these steep seabeds and through rattlesnake-filled trails, we then got back in the car and drove to Colorado to see my brother and do some more hiking in Estes Park.</p>
 
-<p>Estes Park is a true hikers paradise—it has all the trails you could ever hike and more. Being in the <a href="https://en.wikipedia.org/wiki/Rocky_Mountain_National_Park">Rocky Mountain National Park</a>, you might think they're just a bunch of rocky, mountain trails, but you would be greatly mistaken. Estes park is very diverse and has everything from mountain lakebeds and waterfalls, to grassy slopes with marmot caves, and 14,000 foot climbs that some people use hiking poles, wear helmets, and spiked mountain boots for. Unlike the pro mountaineers, I was just wearing some running shoes, but I definately should have been wearing some hiking shoes on some parts of the trail. The only thing that I didn&rsquo;t like about that trip was the 14-hour ride on the way back to Wisconsin that started in the afternoon and went through the night.</p>
+<p>Estes Park is a true hikers paradise—it has all the trails you could ever hike and more. Being in the <a href="https://en.wikipedia.org/wiki/Rocky_Mountain_National_Park">Rocky Mountain National Park</a>, you might think they're just a bunch of rocky, mountain trails, but you would be greatly mistaken. Estes Park is very diverse and has everything from mountain lakebeds and waterfalls, to grassy slopes with marmot caves, and 14,000 foot climbs that some people use hiking poles, wear helmets, and spiked mountain boots for. Unlike the pro mountaineers, I was just wearing some running shoes, but I definitely should have been wearing some hiking shoes on some parts of the trail. The only thing that I didn’t like about that trip was the 14-hour ride on the way back to Wisconsin that started in the afternoon and went through the night.
+</p>
 
 <p><strong>New Routines&nbsp;</strong></p>
 
@@ -35,7 +36,7 @@ const Now = () => {
 
 <p><a href="https://www.youtube.com/watch?v=LAxcxUOZcDU">The Journey&nbsp; &mdash; Tom Misch</a></p>
 
-<p>Tom Misch's songs are very diverse, but this one is down-tempo, instrumental, contemplative, and representative of the south London jazz scene, which I just starting to appreciate after my brother introduced me to it. I'll add more English jazz songs soon.</p>
+<p>Tom Misch's songs are very diverse, but this one is down-tempo, instrumental, contemplative, and representative of the south London jazz scene, which I'm just starting to appreciate.</p>
 
 <p><a href="https://www.youtube.com/watch?v=HaBYoEjEo2M">A Scent of Lily &ndash; Augustine&nbsp;</a></p>
 
@@ -45,14 +46,13 @@ const Now = () => {
 
 <p>React JS (javascript library), MySQL (database),&nbsp; Amazon Web Services, and Mandarin.</p>
 
-<p><strong>Latest Reads</strong></p>
+<p><strong>Latest Good Reads</strong></p>
 
-<p className="now-books">Best business books I&rsquo;ve recently read include:</p>
+{/* <p className="now-books">Best business books I&rsquo;ve recently read include:</p> */}
 <p>• Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship by M. J. DeMarco (Currently reading)</p>
-<p>• Hackers and Painers by Paul Graham</p>
 <p>• Perrenial Seller by Ryan Holiday</p>
 <p>• Anything You Want by Derek Sivers</p>
-<p className="now-books">Best programming books I've recently read include:</p>
+<p>• Hackers and Painters by Paul Graham</p>
 <p>• Eloquent Javascript (still reading)</p>
 <p>• Minimalist Website Strategy by Justin Page Wood</p>
 <p>I'll add a summary soon to each of these books, but I highly recommend all of them.</p>
