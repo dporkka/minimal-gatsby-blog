@@ -58,14 +58,20 @@ a.dp  {
 .dropdown  {
   display: inline-block;
 }
-.dropdown:after {
-  content: "\2304";
+// .dropdown:after {
+//   content: "";
+//   position: absolute;
+//   left: 51px !important;
+//   top: -12px;
+//   transform: rotate(0deg);
+//   display: inline-block;
+//   font-size: 34px;
+// }
+.fa-chevron-down {
   position: absolute;
-  left: 51px !important;
-  top: -12px;
-  transform: rotate(0deg);
-  display: inline-block;
-  font-size: 34px;
+  bottom: 18px;
+  left: 54px;
+  height: 16px;
 }
 .dropdownList {
   display: none;
@@ -197,14 +203,20 @@ a.dp  {
       display: inline-block;
     }
     
-    .dropdown:after {
-      content: "\2304";
+    // .dropdown:after {
+    //   content: "\2304";
+    //   position: absolute;
+    //   left: 64px;
+    //   top: -12px;
+    //   transform: rotate(0deg);
+    //   display: inline-block;
+    //   font-size: 34px;
+    // }
+.fa-chevron-down {
       position: absolute;
-      left: 64px;
-      top: -12px;
-      transform: rotate(0deg);
-      display: inline-block;
-      font-size: 34px;
+      bottom: 18px;
+      left: 54px;
+      height: 16px;
     }
     .dropdownList {
       display: none;
@@ -278,14 +290,20 @@ a.dp  {
     display: inline-block;
   }
   
-  .dropdown:after {
-    content: "\2304";
+  // .dropdown:after {
+  //   content: "\2304";
+  //   position: absolute;
+  //   left: 49px;
+  //   top: -8px;
+  //   transform: rotate(0deg);
+  //   display: inline-block;
+  //   font-size: 25px;
+  // }
+  .fa-chevron-down {
     position: absolute;
-    left: 49px;
-    top: -8px;
-    transform: rotate(0deg);
-    display: inline-block;
-    font-size: 25px;
+    bottom: 0px;
+    left: 54px;
+    height: 16px;
   }
   .dropdownList {
     display: none;
@@ -348,14 +366,20 @@ a:active {
   display: inline-block;
 }
 
-.dropdown:after {
-  content: "\2304";
-  position: absolute;
-  left: 51px;
-  top: -12px;
-  transform: rotate(0deg);
-  display: inline-block;
-  font-size: 34px;
+// .dropdown:after {
+//   content: "\2304";
+//   position: absolute;
+//   left: 51px;
+//   top: -12px;
+//   transform: rotate(0deg);
+//   display: inline-block;
+//   font-size: 34px;
+// }
+svg.fa-chevron-down {
+  position: absolute !important;
+  bottom: 18px !important;
+  left: 54px !important;
+  height: 16px !important;
 }
 .dropdownList {
   display: none;
