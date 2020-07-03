@@ -46,11 +46,6 @@ const Header = () => {
             </Link>
           </li>
           <li>
-            <Link to="/projects/" activeClassName={headerStyles.activeMenuItem}>
-              Projects
-            </Link>
-          </li>
-          <li>
             <Link to="/blog/" activeClassName={headerStyles.activeMenuItem}>
               Blog
             </Link>
@@ -59,7 +54,24 @@ const Header = () => {
           <li>
             <Link to="/#contactme" activeClassName={headerStyles.activeMenuItem}>
               Email
+              </Link>
+          </li>
+          <li className={headerStyles.dropdown}>
+            <Link to="/#" activeClassName={headerStyles.activeMenuItem}>
+              More 
             </Link>
+            <ul className={headerStyles.dropdownList}>
+              <li>
+                <Link to="/projects/" activeClassName={headerStyles.activeMenuItem}>
+                  Projects
+                </Link>
+              </li>
+              <li>
+                <Link to="/tools/" activeClassName={headerStyles.activeMenuItem}>
+                  Tools
+                </Link>
+              </li>
+            </ul>
           </li>
         </ul>
       </nav>
