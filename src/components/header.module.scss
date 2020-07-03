@@ -1,7 +1,6 @@
 a.dp  {
   position: relative;
   left: -20px;
-  // top: -7px;
   font-size: 24px !important;
   bottom: 7px;
   font-family: serif;
@@ -17,7 +16,6 @@ a.dp  {
   z-index: 99999;
 }
 .active-menu-item {
-    // font-weight: 600 !important;
     border-bottom: 2px solid black !important;
     opacity: 1;
     color: black;
@@ -32,7 +30,6 @@ a.dp  {
   text-transform: capitalize;
   display: none;
 }
-
 .brand > li > a {
   margin: 0;
   padding: 0 0 10px;
@@ -40,15 +37,12 @@ a.dp  {
   font-weight: 400;
   line-height: 1.2;
   letter-spacing: 2.5px;
-  // display: none;
-
   a {
     position: relative;
     top: 9px;
     color: #3f3844;
     left: -35px;
     text-decoration: none;
-    // display: none;
   }
   a:hover {
     border-bottom: 2px solid black;
@@ -75,11 +69,16 @@ a.dp  {
 }
 .dropdownList {
   display: none;
-  position: relative;
-  left: -34px;
-  height: 89px;
-  background: lightblue;
+  position: absolute;
+  left: -29px;
+  top: 34px;
+  height: 78px;
   list-style: none;
+  background: #f2f2f2;
+  text-align: right;
+  list-style: none;
+  padding: 0px 0px;
+  border-radius: 7px;
 }
 .dropdownList li {
   top:10px;
@@ -87,12 +86,17 @@ a.dp  {
 }
 .dropdown:hover  .dropdownList {
   display: block;
-  position: relative;
-  left: -34px;
-  height: 89px;
+  position: absolute;
+  left: -46px;
+  top: 35px;
+  width: 129px;
+  height: 77px;
   list-style: none;
-  background: lightblue;
+  background: #f2f2f2;
+  text-align: right;
   list-style: none;
+  padding: 0px 0px;
+  border-radius: 7px;
 }
 @media(max-width: 1100px) and (min-width:501px){
   .brand > li > a {
@@ -213,16 +217,16 @@ a.dp  {
     .dropdown:hover  .dropdownList {
       display: block;
       position: absolute;
-      left: -19px;
-      top: 33px;
-      width: 127px;
-      height: 89px;
+      left: -46px;
+      top: 35px;
+      width: 129px;
+      height: 77px;
       list-style: none;
       background: #f2f2f2;
+      text-align: right;
       list-style: none;
-      padding: 0 21px;
+      padding: 0px 0px;
       border-radius: 7px;
-  
     }
 }
 @media (max-width:500px){
@@ -278,7 +282,7 @@ a.dp  {
     content: "\2304";
     position: absolute;
     left: 61px;
-    top: -7px;
+    top: -8px;
     transform: rotate(0deg);
     display: inline-block;
     font-size: 25px;
@@ -298,14 +302,15 @@ a.dp  {
   .dropdown:hover  .dropdownList {
     display: block;
     position: absolute;
-    left: -53px;
-    top: 33px;
+    left: -46px;
+    top: 35px;
     width: 114px;
-    height: 62px;
+    height: auto;
     list-style: none;
     background: #f2f2f2;
+    text-align: right;
     list-style: none;
-    padding: 0 21px;
+    padding: 0px 0px;
     border-radius: 7px;
   }}
 }
@@ -367,14 +372,15 @@ a:active {
 .dropdown:hover  .dropdownList {
   display: block;
   position: absolute;
-  left: -19px;
-  top: 33px;
-  width: 127px;
-  height: 89px;
+  left: -46px;
+  top: 35px;
+  width: 129px;
+  height: 77px;
   list-style: none;
   background: #f2f2f2;
+  text-align: right;
   list-style: none;
-  padding: 0 21px;
+  padding: 0px 0px;
   border-radius: 7px;
 }
 }
