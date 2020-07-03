@@ -61,7 +61,7 @@ a.dp  {
 .dropdown:after {
   content: "\2304";
   position: absolute;
-  left: 64px;
+  left: 51px !important;
   top: -12px;
   transform: rotate(0deg);
   display: inline-block;
@@ -351,7 +351,7 @@ a:active {
 .dropdown:after {
   content: "\2304";
   position: absolute;
-  left: 52px;
+  left: 51px;
   top: -12px;
   transform: rotate(0deg);
   display: inline-block;
