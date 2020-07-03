@@ -10,3 +10,237 @@
   max-width: 750px;
   padding: 0rem;
 }
+.navListTwo {
+  display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+a.dp  {
+  position: relative;
+  left: -20px;
+  // top: -7px;
+  font-size: 24px !important;
+  bottom: 7px;
+  font-family: serif;
+}
+
+.active-menu-item {
+    // font-weight: 600 !important;
+    border-bottom: 2px solid black !important;
+    opacity: 1;
+    color: black;
+  }
+.hero-content {
+  position: relative;
+  top: 2%;
+  margin: 0;
+  left: -16%;
+  text-align: center;
+  width: 100%;
+  text-transform: capitalize;
+  display: none;
+}
+
+.brand > li > a {
+  margin: 0;
+  padding: 0 0 10px;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: 2.5px;
+  // display: none;
+
+  a {
+    position: relative;
+    top: 9px;
+    color: #3f3844;
+    left: -35px;
+    text-decoration: none;
+    // display: none;
+  }
+  a:hover {
+    border-bottom: 2px solid black;
+    text-decoration: none;
+    color: black;
+  }
+  a:active {
+    border-bottom: 2px solid black;
+    text-decoration: none;
+    color: black;
+  }
+}
+
+@media(max-width: 1100px) and (min-width:501px){
+  .brand > li > a {
+    display: none;
+    position: relative;
+    top: 3px;
+    color: #3f3844;
+    left: -142px;
+    text-decoration: none;
+  
+    a {
+      color: #3f3844;
+      position: relative;
+      top: 6px;
+      // color: gray;
+      left: -32px;
+      text-decoration: none;
+    }
+    a:hover {
+      border-bottom: 2px solid black;
+      text-decoration: none;
+      color: black;
+    }
+    a:active {
+      border-bottom: 2px solid black;
+      text-decoration: none;
+      color: black;
+    }
+  }
+}
+.description {
+  margin: 0;
+  padding: 0 0 10px;
+  position: relative;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 3.5px;
+  color: #000;
+  top: 150px;
+  left: 34%;
+  display: none;
+}
+
+.nav-container {
+  position: relative;
+  bottom: -14px;
+  left: 3px;
+  padding: 0px;
+  right: 0;
+  margin: -2px;
+  background: hsla(0,0%,100%,.1);
+  border-top: 1px solid hsla(0,0%,100%,.1);
+}
+
+.nav-list {
+    margin: 0;
+    display: flex;
+    flex-flow: wrap;
+    flex-direction: row;
+    padding: 0;
+    list-style: none;
+    position: relative;
+    top: -18px;
+    font-size: 7px;
+    justify-content: center;
+    z-index: 10;
+
+  li {
+    letter-spacing: 0.05em;
+    background: none;
+    padding: 5px 7px 4px 0px;
+    margin: 0px;
+    position: relative;
+    left: 0px;
+    top: 20px;
+  }
+
+  a {
+    text-transform: uppercase;
+    color: #000;
+    font-size: 16px;
+    opacity: 0.8;
+    font-weight:400;
+    text-decoration: none;
+  
+    a:hover {
+      border-bottom: 2px solid black;
+      text-decoration: none;
+      color: black;
+    }
+    a:active {
+      border-bottom: 2px solid black;
+      text-decoration: none;
+      color: black;
+    }}
+}
+
+@media (max-width:500px){
+  .dp {
+    left: -6px !important;
+    font-size: 24px !important;
+    bottom: 8px;
+  }
+  .nav-container {
+    position: relative;
+    bottom: -14px;
+    left: 7px;
+  }
+  .nav-list {
+    margin: 0;
+    display: flex;
+    flex-flow: wrap;
+    flex-direction: row;
+    padding: 0;
+    list-style: none;
+    position: relative;
+    top: -20px;
+    left: 3px;
+    font-size: 7px;
+    justify-content: center;
+    z-index: 10;
+    width: 100%;
+    a {
+      text-transform: uppercase;
+      color: #000;
+      font-size: 15px;
+      opacity: 0.8;
+      font-weight:400;
+      position: relative;
+      left: -3px;
+      text-decoration: none;
+  }
+  a:hover {
+    border-bottom: 2px solid black;
+    text-decoration: none;
+    color: black;
+  }
+  a:active {
+    border-bottom: 2px solid black;
+    text-decoration: none;
+    color: black;
+  }}
+}
+
+@media(min-width:800px){
+.nav-list li {
+    letter-spacing: 0.05em;
+    background: none;
+    padding: 5px 23px 4px 0px;
+    margin: 0px;
+    position: relative;
+    left: 0%;
+    top: 20px;
+  
+a {
+  text-transform: uppercase;
+  color: #000;
+  // font-size: 16px;
+  opacity: 0.8;
+  font-weight:400;
+  // position: relative;
+  left: -3px;
+  text-decoration: none;
+  border-bottom: none;
+}
+a:hover {
+  border-bottom: 2px solid black;
+  text-decoration: none;
+}
+a:active {
+  border-bottom: 2px solid black;
+  text-decoration: none;
+}}
+}

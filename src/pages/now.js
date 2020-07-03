@@ -9,7 +9,7 @@ const Now = () => {
       <div className="now-section">
       <h2>What I&rsquo;m up to now:</h2>
 <p><strong>Working on</strong>&nbsp;</p>
-<p><a href="https://www.nulango.com">Nulango</a>, a language learning web app with my brother and this site.</p>
+<p><a href="https://www.nulango.com">Nulango</a>, a language learning web app with my brother, and adding some new content and features to this site.</p>
 
 <p><strong>Recent Adventures</strong></p>
 
