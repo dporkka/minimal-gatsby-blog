@@ -57,8 +57,8 @@ const Header = () => {
               </Link>
           </li>
           <li className={headerStyles.dropdown}>
-            <Link to="/#" activeClassName={headerStyles.activeMenuItem}>
-              More 
+            <Link to="#" activeClassName={headerStyles.activeMenuItem}>
+              Things 
             </Link>
             <ul className={headerStyles.dropdownList}>
               <li>

@@ -64,11 +64,10 @@ a.dp  {
 .dropdown  {
   display: inline-block;
 }
-
 .dropdown:after {
   content: "\2304";
   position: absolute;
-  left: 52px;
+  left: 64px;
   top: -12px;
   transform: rotate(0deg);
   display: inline-block;
@@ -197,7 +196,7 @@ a.dp  {
     .dropdown:after {
       content: "\2304";
       position: absolute;
-      left: 52px;
+      left: 64px;
       top: -12px;
       transform: rotate(0deg);
       display: inline-block;
@@ -247,7 +246,7 @@ a.dp  {
     list-style: none;
     position: relative;
     top: -37px;
-    left: 3px;
+    left: -2px;
     font-size: 7px;
     justify-content: center;
     z-index: 10;
@@ -255,7 +254,7 @@ a.dp  {
     a {
       text-transform: uppercase;
       color: #000;
-      font-size: 15px;
+      font-size: 16px;
       opacity: 0.8;
       font-weight:400;
       position: relative;
@@ -279,11 +278,11 @@ a.dp  {
   .dropdown:after {
     content: "\2304";
     position: absolute;
-    left: 44px;
+    left: 61px;
     top: -12px;
     transform: rotate(0deg);
     display: inline-block;
-    font-size: 34px;
+    font-size: 25px;
   }
   .dropdownList {
     display: none;
@@ -300,10 +299,10 @@ a.dp  {
   .dropdown:hover  .dropdownList {
     display: block;
     position: absolute;
-    left: -46px;
+    left: -53px;
     top: 33px;
     width: 114px;
-    height: 61px;
+    height: 62px;
     list-style: none;
     background: #f2f2f2;
     list-style: none;
