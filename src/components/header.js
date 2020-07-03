@@ -57,9 +57,9 @@ const Header = () => {
               </Link>
           </li>
           <li className={headerStyles.dropdown}>
-            <Link to="#" activeClassName={headerStyles.activeMenuItem}>
-              Things 
-            </Link>
+            <a href="#" activeClassName={headerStyles.activeMenuItem}>
+              More 
+            </a>
             <ul className={headerStyles.dropdownList}>
               <li>
                 <Link to="/projects/" activeClassName={headerStyles.activeMenuItem}>
