@@ -20,12 +20,12 @@ const Tools = () => {
 
             <a className="toolTwo"><h3 className={styles.htools}>Kindle</h3></a>
             <p>This is what I read most of my books on. Love how easy it is to take notes, and it doesn't blast my eyes with blue light at night, which helps me sleep better.</p>
-            <a className="toolThree" ><h3 className={styles.htools}>HP 25f external monitor</h3></a>
-            <p>25" monitor that helps me be more productive when doing web development work or doing most things online.
+           
             <h2>Computer Setup</h2>
             <h3 className={styles.htools}>T-90 Giant Spider Inceptor mouse</h3>
             <p>After decades of using generic mice, I finally decided to upgrade to a gamer mouse and will never go back. This mouse has sensitiviy adjustment, so I can easily change the movement speed, for doing different types of work, (for example: artwork, vs browsing), a double click button, and super ergonomic feel to prevent carpal tunnel syndrome.</p>
-            </p>
+            <a className="toolThree" ><h3 className={styles.htools}>HP 25f external monitor</h3></a>
+            <p>25" monitor that helps me be more productive when doing web development work or doing most things online.</p>
             <h3 className={styles.htools}>Logitech K750 solar-powered, wireless keyboard</h3>
             <p>Love the feeling and sound of these keys. I could be doing my taxes on this thing and it would sound like I was performing an ASMR album. It's also very reliable, I've never had to wait for it to charge or do any troubleshooting.</p>
 
