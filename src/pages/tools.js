@@ -6,7 +6,7 @@ import styles from "/Users/Gertrude/Projects/dave2/src/pages/tools.module.scss"
 const Tools = () => {
   return (
     <Layout>
-      <Metadata title="tools" description="Tools I Use" />
+      <Metadata title="Tools" description="Tools I Use" />
         <div className="toolsSection">
             <h2 className="htools">Tools</h2>
             <p>These are some of the tools that I use. <i>(Page in progress)</i></p>
