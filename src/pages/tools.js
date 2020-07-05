@@ -68,7 +68,7 @@ const Tools = () => {
             <p>Use this for simple audio recordings on my phone</p>
 
             <h3 className={styles.htools}>Logic Pro X</h3>
-            <p>Use this to make music online. It's basically the paid version of garage band</p>
+            <p>Use this to make music online. It's basically the full-featured version of garage band.</p>
 
             <h3 className={styles.htools}>Graphite 49 MIDI</h3>
             <p>Cheap digital piano that feels ok and has everything I need to interface with a music program like Logic or GarageBand. I plan to upgrade soon to something bigger with better touch response.</p>
