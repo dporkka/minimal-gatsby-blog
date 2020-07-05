@@ -7,7 +7,7 @@ const Contact = () => {
     <Layout>
       <Metadata title="Contact" description="Email Me" />
       <h1>Email Me:</h1>
-      <p>davidporkka[at]gmail.com</p>
+      <p>davidporkka@gmail.com</p>
     </Layout>
   )
 }
