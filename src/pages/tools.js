@@ -13,7 +13,7 @@ const Tools = () => {
             <h3 className={styles.htools}>Avantree E171 Sports Earbuds</h3>
             <p>I've used a lot of earbuds over the years, and these are my favorite so far. They have great sound quality, are indestructible, comfortable, relatively inexpensive, and have ear loops so they don't fall out when running or doing other high-impact things.</p>
             <h3 className={styles.htools}>Audio-technica ATH-M20x Headphones</h3>
-            <p>I use these when working on the computer, making music, and moving the lawn. They provide top-quality audio quality at a budget level pricing. Their over-the-ear fit is also very comfortable and does a nice job isolating outside noises.</p>
+            <p>I use these when working on the computer, making music, and moving the lawn. They provide top-quality audio quality at a poverty-level pricing. Their over-the-ear fit is also very comfortable and does a nice job reducing outside noises.</p>
             
             <a className="toolOne" ><h3 className={styles.htools}>Nikon d3400</h3></a>
             <p>Entry level DSLR camera that takes decent pics</p>

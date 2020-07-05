@@ -22,7 +22,7 @@ const About = () => {
      <h3><strong>Liquid Fuel</strong></h3>
      <p>Darjeeling tea, espresso, or dark roast coffee</p>
      <h3><strong>Location</strong></h3>
-     <p>U.S.</p>
+     <p>Milwaukee, Wisconsin</p>
      <h3><strong>Genome</strong></h3>
      <div className="genomediv">
      <p className="genome">ATGAAAATGAACAACAAAACTGTCATCACCCAGTTTCTCCTCCTGGGACTGCCCATTTCCCTAGAGTACA
