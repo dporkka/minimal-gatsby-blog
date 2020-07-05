@@ -44,7 +44,7 @@ const Now = () => {
 
 <p><strong>Learning</strong></p>
 
-<p>React JS (javascript library), MySQL (database),&nbsp; Amazon Web Services, and Mandarin.</p>
+<p>React JS (javascript library),&nbsp; Amazon Web Services, and Mandarin.</p>
 
 <p><strong>Latest Good Reads</strong></p>
 
