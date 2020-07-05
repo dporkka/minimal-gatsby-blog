@@ -17,8 +17,6 @@ const About = () => {
      <p>Eclectic, but mostly electronic, alternative, bluegrass, and instrumental</p>
      <h3><strong>Movie Tastes</strong></h3>
      <p>Sci-fi, comedies, action, documentaries, foreign</p>
-     <h3><strong>Favorite Foods</strong></h3>
-     <p>Dark chocolate, granny smith apples, and blueberries</p> 
      <h3><strong>Liquid Fuel</strong></h3>
      <p>Darjeeling tea, espresso, or dark roast coffee</p>
      <h3><strong>Location</strong></h3>

@@ -36,8 +36,8 @@ const Tools = () => {
             <h3 className={styles.htools}>Google Docs and Sheets</h3>
             <p>Revolutionary, I know. But I love having everything in the cloud (and locally). It makes accessing all my documents easy from any computer, and also makes me feel good, knowing that if I spill coffee on my computer, my documents will live on.</p>
 
-            <h3 className={styles.htools}>Apple notes</h3>
-            <p>Love the speed, simplicity, and search function of notes. They just work</p>
+            <h3 className={styles.htools}>Apple Notes</h3>
+            <p>Love the speed, simplicity, and search function of notes. They just work.</p>
 
             <h3 className={styles.htools}>Visual Studio Code</h3>
             <p>Tried a lot of editors, but like using VS Code the best becuase of its extensive feautures, plugins, built-in terminal, and appearance.</p>
@@ -45,7 +45,7 @@ const Tools = () => {
             <h3 className={styles.htools}>Waiters Notepads</h3>
             <p>Seriously, I carry a little notepad with me everywhere. I carry them to capture good and bad ideas, and to work on ideas when I need a break from the computer.</p>
 
-            <h3 className={styles.htools}>Bic Multi-colored pens</h3>
+            <h3 className={styles.htools}>Bic Multi-Colored Pens</h3>
             <p>I like adding a little color to my notes, I think it makes them more organized and memorable.</p>
 
             <h2>Web Design</h2>
@@ -60,7 +60,7 @@ const Tools = () => {
             <p>Use this for designing websites and editing photos. Mostly editing photos.</p>
 
             <h3 className={styles.htools}>XnConvert</h3>
-            <p>Use this to do bulk conversions between different types of file types.</p>
+            <p>Use this to do bulk conversions between different types of files.</p>
 
             <h2>Music</h2>
 
