@@ -7,7 +7,7 @@ const Tools = () => {
     <Layout>
       <Metadata title="Tools" description="Tools I Use" />
         <div className="toolsSection">
-            <h2 className="htools">Tools</h2>
+            <h2 className="htools"><strong>Tools</strong></h2>
             <p>These are some of the tools that I use. <i>(Page in progress)</i></p>
             <h3 class="htools">Avantree E171 Sports Earbuds</h3>
             <p>I've used a lot of earbuds over the years, and these are my favorite so far. They have great sound quality, are indestructible, comfortable, relatively inexpensive, and have ear loops so they don't fall out when running or doing other high-impact things.</p>
@@ -20,7 +20,7 @@ const Tools = () => {
           <h3 class="htools">Kindle</h3>
             <p>This is what I read most of my books on. Love how easy it is to take notes, and it doesn't blast my eyes with blue light at night, which helps me sleep better.</p>
            
-            <h2>Computer Setup</h2>
+            <h2><strong>Computer Setup</strong></h2>
             <h3 class="htools">T-90 Giant Spider Inceptor mouse</h3>
             <p>After decades of using generic mice, I finally decided to upgrade to a gamer mouse and will never go back. This mouse has sensitiviy adjustment, so I can easily change the movement speed, for doing different types of work, (for example: artwork, vs browsing), a double click button, and super ergonomic feel to prevent carpal tunnel syndrome.</p>
             <h3 class="htools">HP 25f external monitor</h3>
@@ -31,7 +31,7 @@ const Tools = () => {
             <h3 class="htools">Rav External Power Pack</h3>
             <p>Battery pack to charge my appliances. Comes in handy when traveling or if I forget to charge something and don't feel like waiting for it to charge in a wall socket. It holds 26.8 amp hours of power.</p>
 
-            <h2>Text Editing</h2>
+            <h2><strong>Text Editing</strong></h2>
             <h3 class="htools">Google Docs and Sheets</h3>
             <p>Revolutionary, I know. But I love having everything in the cloud (and locally). It makes accessing all my documents easy from any computer, and also makes me feel good, knowing that if I spill coffee on my computer, my documents will live on.</p>
 
@@ -47,7 +47,7 @@ const Tools = () => {
             <h3 class="htools">Bic Multi-Colored Pens</h3>
             <p>I like adding a little color to my notes, I think it makes them more organized and memorable.</p>
 
-            <h2>Web Design</h2>
+            <h2><strong>Web Design</strong></h2>
 
             <h3 class="htools">Adobe XD</h3>
             <p>Use this program to design websites and build websites from other people's designs. </p>
@@ -61,7 +61,7 @@ const Tools = () => {
             <h3 class="htools">XnConvert</h3>
             <p>Use this to do bulk conversions between different types of files.</p>
 
-            <h2>Music</h2>
+            <h2><strong>Music</strong></h2>
 
             <h3 class="htools">GarageBand</h3>
             <p>Use this for simple audio recordings on my phone</p>
@@ -72,7 +72,7 @@ const Tools = () => {
             <h3 class="htools">Graphite 49 MIDI</h3>
             <p>Cheap digital piano that feels ok and has everything I need to interface with a music program like Logic or GarageBand. I plan to upgrade soon to something bigger with better touch response.</p>
 
-          <h2>Sleep Tech</h2>
+          <h2><strong>Sleep Tech</strong></h2>
 
             <h3 class="htools">Orange UVEX blue-light blocking goggles </h3>
             <p>I use these goggles when I'm working on the computer late at night to improve my sleep and to spook my neighbors.</p>
@@ -83,7 +83,7 @@ const Tools = () => {
           <h3 class="htools">Sleep Melodies</h3>
           <p>Customizable sleep app that you can use to produce your own relaxing sleep sounds.</p>
 
-          <h2>Security</h2>
+          <h2><strong>Security</strong></h2>
 
           <h3 class="htools">OnePass Password Manager</h3>
           <p>It can be easy to get in the habit of reusing passwords for convenience and give up security. This cloud-based password manager can solve this problem by creating random passwords for you and saving them in a secure safe in the cloud that you can access from anywhere.</p>
