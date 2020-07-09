@@ -12,7 +12,7 @@ const Tools = () => {
             <h3 class="htools">Avantree E171 Sports Earbuds</h3>
             <p>I've used a lot of earbuds over the years, and these are my favorite so far. They have great sound quality, are indestructible, comfortable, relatively inexpensive, and have ear loops so they don't fall out when running or doing other high-impact things.</p>
             <h3 class="htools">Audio-technica ATH-M20x Headphones</h3>
-            <p>I use these when working on the computer, making music, and moving the lawn. They provide top-quality audio quality at a poverty-level pricing. Their over-the-ear fit is also very comfortable and does a nice job reducing outside noises.</p>
+            <p>I use these when working on the computer, making music, and moving the lawn. They provide top-quality audio quality at poverty-level pricing. Their over-the-ear fit is also very comfortable and does a nice job reducing outside noises.</p>
             
             <h3 class="htools">Nikon d3400</h3>
             <p>Entry level DSLR camera that takes decent pics</p>
@@ -33,19 +33,19 @@ const Tools = () => {
 
             <h2><strong>Text Editing</strong></h2>
             <h3 class="htools">Google Docs and Sheets</h3>
-            <p>Revolutionary, I know. But I love having everything in the cloud (and locally). It makes accessing all my documents easy from any computer, and also makes me feel good, knowing that if I spill coffee on my computer, my documents will live on.</p>
+            <p>I love having everything in the cloud (and locally). It makes accessing all my documents easy from any computer, and also makes me feel good, knowing that if I spill coffee on my computer, my documents will live on.</p>
 
             <h3 class="htools">Apple Notes</h3>
-            <p>Love the speed, simplicity, and search function of notes. They just work.</p>
+            <p>Speedy, simple, and has a search function. Very reliable.</p>
 
             <h3 class="htools">Visual Studio Code</h3>
             <p>Tried a lot of editors, but like using VS Code the best becuase of its extensive feautures, plugins, built-in terminal, and appearance.</p>
 
             <h3 class="htools">Waiters Notepads</h3>
-            <p>Seriously, I carry a little notepad with me everywhere. I carry them to capture good and bad ideas, and to work on ideas when I need a break from the computer.</p>
+            <p>I carry a little notepad with me everywhere to capture good and bad ideas, and to work on ideas when I need a break from the computer.</p>
 
             <h3 class="htools">Bic Multi-Colored Pens</h3>
-            <p>I like adding a little color to my notes, I think it makes them more organized and memorable.</p>
+            <p>I like adding a little color to my notes with these pens, I think it makes them more organized and memorable.</p>
 
             <h2><strong>Web Design</strong></h2>
 
@@ -70,7 +70,7 @@ const Tools = () => {
             <p>Use this to make music online. It's basically the full-featured version of garage band.</p>
 
             <h3 class="htools">Graphite 49 MIDI</h3>
-            <p>Cheap digital piano that feels ok and has everything I need to interface with a music program like Logic or GarageBand. I plan to upgrade soon to something bigger with better touch response.</p>
+            <p>Basic digital piano that has everything I need to interface with a music program like Logic or GarageBand. I plan to upgrade soon to something bigger with better touch response.</p>
 
           <h2><strong>Sleep Tech</strong></h2>
 
