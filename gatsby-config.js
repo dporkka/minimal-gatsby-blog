@@ -31,6 +31,11 @@ module.exports = {
         ],
       },
     },
-
+    // {
+    //   resolve: "gatsby-plugin-mailchimp",
+    //   options: {
+    //     endpoint: 'https://davidporkka.us10.list-manage.com/subscribe/post?u=4bb66f41564333a77bccbdb14&amp;id=cedb78cf57',
+    //   },
+    // },
   ],
 }

@@ -6,6 +6,7 @@ import Img from "gatsby-image"
 
 import postStyles from "./blogPost.module.scss"
 import Metadata from "../components/metadata"
+import CustomForm from "./subscribe.js"
 
 export const query = graphql`
   query($slug: String!) {
@@ -53,7 +54,9 @@ const BlogPost = props => {
           dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}
         ></div>
       </div>
+    {CustomForm}
     </Layout>
+    
   )
 }
 
