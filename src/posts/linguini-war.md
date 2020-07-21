@@ -4,7 +4,7 @@ date: "2020-07-18"
 featured: "../images/linguini-war-gas-mask.jpg"
 ---
 
-After World War 2, the Amer-Italian relationship was strained. Many Americans still saw the Italians as war enemies and American grocery stores wouldn't sell to them. So the Italians who lived in the U.S. had no other choice than to work in soup kitchens to stay alive. Despite their hatred for the Italian soup cooks, the Americans soon learned they could cook better soup than many of the fancier restaurants in town. And before long, more people were lining up for the soup kitchens than the gourmet restaurants.
+After World War 2, most American grocery stores wouldn't sell to Italians, since they still considered war enemies. So, the Italians who lived in the U.S. had no other choice than to work in soup kitchens to stay alive. Despite their hatred for the Italian soup cooks, the Americans soon learned they could cook better soup than many of the fancier restaurants in town. And before long, more people were lining up for the soup kitchens than the gourmet restaurants.
 
 Angry and confused, the restaurant owners started to investigate how the poorly stocked soup kitchens could compete with their world-class chefs. So, they sent their best chefs disguised as homeless people to the soup kitchens to figure out their secret noodle recipe. But after countless tasting, the recipe remained a mystery.
 

@@ -1,6 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import Metadata from "../components/metadata"
+import addToMailchimp from 'gatsby-plugin-mailchimp';
 // import davidporkkabeach from "../images/davidporkkabeach.jpg"
 
 const About = () => {

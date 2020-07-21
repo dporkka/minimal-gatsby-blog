@@ -1,6 +1,7 @@
 import MailchimpSubscribe from "react-mailchimp-subscribe"
 import React from "react"
 
+
 const url = "https://davidporkka.us10.list-manage.com/subscribe/post?u=4bb66f41564333a77bccbdb14&amp;id=cedb78cf57";
 
 // simplest form (only email)
@@ -20,4 +21,5 @@ const CustomForm = () => (
     )}
   />
 )
+
 export default CustomForm;
