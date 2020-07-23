@@ -5,13 +5,11 @@ date: "2020-07-23"
 
 ### **Frontpage Feed**
 
-The front page of many blogs is focused more on new users than repeat users, by having a static about page. I understand the value of informing people who you are, but get bored seeing the same front page of my favorite blogs. So I built a feed-style front page that allows people to quickly see what’s new, without visiting all my pages. And people who are new can easily understand what I do, by seeing what I’m working on, without learning about me first and potentially building a bias.
+The front page of many blogs is focused more on new users than repeat users, by having a static "About" page. I understand the value of informing people who you are, but get bored seeing the same front page of my favorite blogs. So I built a feed-style front page that allows people to quickly see what’s new, without visiting all my pages. And people who are new can easily understand what I do, by seeing what I’m working on, without learning about me first and potentially building a bias.
 
 ### **Function > Branding**  
 
-I chose to prioritize my pages by having most of my main navigation easily clickable, without hiding it behind a burger menu.
-
-Instead of having my name take up all the space on the top of the screen for all my pages, I chose to just use my initials. Most people will probably realize davidporkka.com belongs to David Porkka, or see the footer credit at the bottom.
+Instead of having my name take up all the space on the top of the screen for all my pages, I chose to just use my initials. This allowed me to have most of my main navigation easily clickable, without hiding them behind a burger menu on all screen sizes. Most people will probably realize davidporkka.com belongs to David Porkka, or see the footer credit at the bottom. 
 
 ### **Minimalist > Creative**
 
