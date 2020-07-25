@@ -8,3 +8,7 @@ It should have been an ordinary bathroom experience, but everything was about to
 
 He was my best friend, until now. As we exchanged glances, he grimaced with anger, feeling his privacy also invaded. His neck veins bulged through his dress shirt and his face turned red with fury. He was stronger than me, but I had been studying jujitsu for about a month. Fists were the only choice, but we first washed our hands out of respect.
 
+----------------------------
+
+This story was originally published at (davidporkka.com)[https://www.davidporkka.com]
+

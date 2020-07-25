@@ -57,6 +57,7 @@ const Index = () => {
       <h2 id="contactme"><strong>Email Me</strong></h2>
       <p className="mail-text">davidporkka[at]gmail.com</p>
       </div>
+      <p>If you found this Gatsby website template helpful, consider making a <a href="https://paypal.me/DavidPorkka">donation tothe developer</a></p>
       </div>
     </Layout>
   )

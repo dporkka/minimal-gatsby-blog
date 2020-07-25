@@ -170,3 +170,7 @@ Consider posting your goal on a social media or an online forum. This can help y
 The only way to cross a canyon is to make the jump.
 
 Start working on your goals.
+
+----------------------------------
+
+This article was originally published at (davidporkka.com)[https://www.davidporkka.com]
