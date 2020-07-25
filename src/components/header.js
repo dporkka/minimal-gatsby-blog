@@ -22,7 +22,6 @@ const Header = () => {
       <div className={headerStyles.heroContent}>
         <p className={headerStyles.brand}>
           <Link className="davidporkka"to="/">{data.site.siteMetadata.title}</Link>
-          {/* { <Link className="dp" to="/">DP</Link>} */}
         </p>
         <p className={headerStyles.description}>
           {data.site.siteMetadata.description}

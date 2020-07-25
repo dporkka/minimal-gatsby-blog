@@ -3,9 +3,7 @@ $secondaryColor: #006ce5;
 $thirdColor: #202020; 
 $mainWhite: white;
 
-/* global.css */
-
-
+/*--------- Global CSS ----------*/
 
 * {
   box-sizing: border-box;
@@ -17,7 +15,6 @@ body {
   line-height: 1.4283;
   font-family:  "Helvetica Neue", "Segoe UI", Roboto, sans-serif;
 }
-
 p {
   font-size:18px;
   color: #111111;
@@ -28,11 +25,6 @@ h3 {
   font-weight: 400;
   color: $thirdColor;
 } 
-// a {
-//   text-decoration: none;
-//   color: #006ce5;
-//   border-bottom: 2px solid #006ce5;
-// }
 a > h2 {
   color: #006ce5;
   text-decoration: none;
@@ -59,4 +51,7 @@ a:active {
   border-bottom: 2px solid black;
   display: inline-block;
   margin-bottom: -7px;
+}
+.link1 {
+  margin-left: 0px !important;
 }

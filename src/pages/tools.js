@@ -90,15 +90,6 @@ const Tools = () => {
 
           <h3 class="htools">Private Internet Access VPN</h3>
           <p>I work at coffee shops a lot and use the pubic wifi. Unfortunately, almost all public wifi networks are unencrypted, which means people could see any of my network activity, including financial transactions, if they wanted to. By using a VPN, you're able to encrypt this traffic to increase your digital privacy and security on public networks.</p>
-{/* 
-          <h2>Learning</h2>
-
-          <h3 class="htools"> Anki spaced-repetition flashcard system</h3>
-          <p>This is a community driven flashcard platform that allows users to create their own flashcards or download decks of other flashcards on hundreds of different topics. I've found some of the language-learning flashcards to be especially helpful for learning new vocabulary. Unlike other flashcard systems, Anki helps you learn and review new cards based on the difficulty you assign to each card, so you spend more time learning material you don't know and less time reviewing material you're comfortable with.</p>
-
-          <h3 class="htools">Books</h3>
-          <p>For programming, I like many of the O'Reilly books</p>
-          <p>I'll add some of my favorites soon for each category.</p> */}
 
 
         </div>
