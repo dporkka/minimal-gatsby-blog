@@ -2,26 +2,6 @@ import React from "react"
 import Layout from "../components/layout"
 import Metadata from "../components/metadata"
 import styles from "./index.css"
-// import { ThemeToggler } from 'gatsby-plugin-dark-mode'
-
-// class MyComponent extends React.Component {
-//   render() {
-//     return (
-//       <ThemeToggler>
-//         {({ theme, toggleTheme }) => (
-//           <label>
-//             <input
-//               type="checkbox"
-//               onChange={e => toggleTheme(e.target.checked ? 'dark' : 'light')}
-//               checked={theme === 'dark'}
-//             />{' '}
-//             Dark mode
-//           </label>
-//         )}
-//       </ThemeToggler>
-//     )
-//   }
-// }
 
 const Index = () => {
   return (
@@ -31,7 +11,6 @@ const Index = () => {
       <div className="intro">
       <h2 className="hi">Hi!</h2>
       <h3>This is where I share things that I'm working on and thinking about.</h3>
-      {/* <a href="/now"><button className="learn-about-me">What I&rsquo;m doing now</button></a> */}
       </div>
       <div className="projects-section-index">
       <h2 className="projectsHeader"><strong>Current Projects</strong></h2>
@@ -56,8 +35,8 @@ const Index = () => {
       <div className="contact-section">
       <h2 id="contactme"><strong>Email Me</strong></h2>
       <p className="mail-text">davidporkka[at]gmail.com</p>
+      <p>If you found this Gatsby website template helpful, consider making a <a href="https://paypal.me/DavidPorkka">donation to the developer</a></p>
       </div>
-      <p>If you found this Gatsby website template helpful, consider making a <a href="https://paypal.me/DavidPorkka">donation tothe developer</a></p>
       </div>
     </Layout>
   )

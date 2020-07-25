@@ -1,10 +1,8 @@
 import React from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
-
 // import Img from "gatsby-image"
 import Metadata from "../components/metadata"
 import Layout from "../components/layout"
-
 import blogStyles from "./blog.module.scss"
 
 const Blog = () => {

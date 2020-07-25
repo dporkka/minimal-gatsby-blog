@@ -18,7 +18,7 @@ const Now = () => {
 <p>Estes Park is located in the <a href="https://en.wikipedia.org/wiki/Rocky_Mountain_National_Park">Rocky Mountain National Park</a>, but it's much more than just rocky mountains. It has everything from mountain lakebeds and waterfalls, to grassy slopes with marmot caves, and 14,000 foot climbs that some people use hiking poles, wear helmets, and spiked mountain boots for. The only thing that I didn’t like about that trip was the 14-hour ride on the way back to Wisconsin.
 </p>
 
-<p><strong>The scrawny to brawny transformation is underway.</strong></p>
+<p><strong>New Routines</strong></p>
 
 <p> Lately, I&rsquo;ve been doing a lot of pull-ups, using TRX straps to do ab work and cardio, lifting weights to build some muscle, and jump roping to prepare for my next fight.</p>
 <p>Just kidding, I don't plan on fighting anytime soon, and it was the first time I picked up a jump rope after about 7-10 years. I also started to run again after not running for a few months. My current running strategy is to run at like 80% effort until I'm tired, then walk for a minute or two, and repeat, usually in quarter-mile increments. I&rsquo;m slowly starting to build my stamina again to run longer distances.&nbsp; I'll report later on the effectiveness of this strategy.</p>
@@ -26,12 +26,11 @@ const Now = () => {
 <p><strong>Current Music</strong></p>
 
 <p><a href="https://www.youtube.com/watch?v=c6vwL7XgVz4">IknowhowIfeel</a> &amp; <a href="https://www.youtube.com/watch?v=dhAR_VnEAZ8">TiedUpRightNow</a> &mdash; Parcels&nbsp;</p>
-{/* <iframe width="95%" height="50" src="https://www.youtube-nocookie.com/embed/dhAR_VnEAZ8" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="95%" height="50" src="https://www.youtube-nocookie.com/embed/c6vwL7XgVz4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
+
 <p>Love the funky upbeat groove these guys have. Their other songs are just as good as the ones above and you should check out their latest album <i><a href="https://www.youtube.com/watch?v=e4TFD2PfVPw">Live Volume 1</a></i>. If you like Jefferson Airplane or The Alan Parsons Project, you&rsquo;ll probably like Parcels.</p>
 
 <p><a href="https://www.youtube.com/watch?v=W8fmOciEY8U">Technicolor Beat &mdash; Oh Wonder</a></p>
-{/* <iframe width="95%" height="50" src="https://www.youtube-nocookie.com/embed/W8fmOciEY8U" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
+
 <p>Overlapping male and female vocals, complex choreography of various background sounds that blend in an ear-soothing, technicolor beat.</p>
 
 <p><a href="https://www.youtube.com/watch?v=LAxcxUOZcDU">The Journey&nbsp; &mdash; Tom Misch</a></p>
@@ -48,7 +47,6 @@ const Now = () => {
 
 <p><strong>Latest Good Reads</strong></p>
 
-{/* <p className="now-books">Best business books I&rsquo;ve recently read include:</p> */}
 <p>• Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship by M. J. DeMarco (Currently reading)</p>
 <p>• Perrenial Seller by Ryan Holiday</p>
 <p>• Anything You Want by Derek Sivers</p>

@@ -1,12 +1,9 @@
 import React from "react"
 import { graphql } from "gatsby"
-
 import Layout from "../components/layout"
 import Img from "gatsby-image"
-
 import postStyles from "./blogPost.module.scss"
 import Metadata from "../components/metadata"
-import CustomForm from "./subscribe.js"
 
 export const query = graphql`
   query($slug: String!) {
@@ -49,14 +46,12 @@ const BlogPost = props => {
             alt={props.data.markdownRemark.frontmatter.title}
           />
         )}
-
+        
         <div
           dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}
         ></div>
       </div>
-    {CustomForm}
     </Layout>
-    
   )
 }
 
