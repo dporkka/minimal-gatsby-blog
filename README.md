@@ -10,7 +10,7 @@
 
 Kick off your project with this simple site. This site ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
-To see it in action, visit https://www.davidporkka.com
+To see it in action, visit https://minimal-gatsby.netlify.app/
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
