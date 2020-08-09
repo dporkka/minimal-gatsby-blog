@@ -1,6 +1,7 @@
 ---
 title: "Design Choices for This Site"
 date: "2020-07-23"
+featured: ""
 ---
 
 ### **Front Page Feed**
@@ -9,7 +10,7 @@ The front page of many blogs is focused more on new users than repeat users, by 
 
 ### **Function > Branding**  
 
-By using “Bio” over “About”, “Email” over “Contact”, and “DP” instead of “David Porkka”, the most common navigation links are able to fit on mobile screens without a burger menu. Most people will probably realize the owner of the site, by the footer credit at the bottom and the URL. 
+By using “Bio” over “About”, “Email” over “Contact”, the most common navigation links are able to fit on mobile screens without a burger menu.
 
 ### **Minimalist > Creative**
 
@@ -31,6 +32,6 @@ Javascript can be completely disabled on my site and it would look and function 
 
 Instead of having a sticky header or footer that takes up space and distracts users, I opted instead to add page navigation to both the top and bottom of each page, so users can easily scroll up or down to navigate to a different page.
 
------------------------------
+### **Static over Dynamic**
 
-This article was originally published at (davidporkka.com)[https://www.davidporkka.com]
+I want this blog to be as low-maintenance and fast as possible. By having a static site, I don't have to worry about updating a bunch of plugins or 3rd party software to keep it working. 

@@ -31,8 +31,10 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     ```shell
     cd my-new-blog/
+    yarn (this installs the Yarn package manager)
     gatsby develop
     ```
+    remove the ```robots.txt``` file to allow search engines to index your site
 
 1.  **Open the source code and start editing!**
 

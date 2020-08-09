@@ -4,11 +4,32 @@
   text-align: center;
   width: 101%;
   overflow-x: auto;
+  margin-top: 20px;
 }
+
 .container {
   margin: 0 auto;
   max-width: 750px;
   padding: 0rem;
+}
+.navList {
+  overflow-x: auto;
+  margin: 0;
+  display: inline-flex;
+  flex-direction: row;
+  padding: 0;
+  overflow-x: auto;
+  height: 53px;
+  list-style: none;
+  position: relative;
+  // top: -37px;
+  // left: 2px;
+  width: 98vw !important;
+  font-size: 7px;
+  z-index: 10;
+  width: 100%;
+  flex-flow: nowrap;
+  overflow-y: hidden;
 }
 .navListTwo {
   display: flex;
@@ -69,7 +90,25 @@ a.dp  {
     color: black;
   }
 }
-
+div > li > * {
+  color: black;
+  width: 25px;
+  display: block;
+  position: relative;
+  padding: 10 0px;
+}
+a .fa-twitter {
+  color: black;
+  width: 25px;
+  display: block;
+  position: relative;
+}
+a > .fa-github {
+  color: black;
+  width: 25px;
+  display: block;
+  position: relative;
+}
 @media(max-width: 1100px) and (min-width:501px){
   .brand > li > a {
     display: none;
@@ -123,7 +162,10 @@ a.dp  {
   background: hsla(0,0%,100%,.1);
   border-top: 1px solid hsla(0,0%,100%,.1);
 }
-
+.socialicons {
+  display: flex;
+  flex-direction: row;
+}
 .nav-list {
     margin: 0;
     display: flex;

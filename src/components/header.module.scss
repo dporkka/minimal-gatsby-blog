@@ -5,6 +5,20 @@ a.dp  {
   bottom: 7px;
   font-family: serif;
 }
+.brand {
+  display: block;
+  position: relative;
+  top: -6px;
+  text-align: center;
+}
+.brand > a {
+  font-size: 30px;
+  color: black;
+  font-family: serif;
+  font-weight:700;
+  text-decoration: none;
+  border-bottom: none;
+}
 .header {
   height: 49px;
   background-position: center center;
@@ -140,7 +154,7 @@ a.dp  {
 
 .nav-container {
   position: absolute;
-  top: 26px;
+  top: 37px;
   left: 3px;
   padding: 0px;
   right: 0;
@@ -224,30 +238,67 @@ a.dp  {
     }
 }
 @media (max-width:500px){
+  .heroContent {
+    display: block;
+    position: relative;
+  }
   .dp {
     left: -6px !important;
     font-size: 24px !important;
     bottom: 8px;
   }
+  .brand {
+    display: block;
+    position: relative;
+    top: -13px;
+    text-align: center;
+  }
+
+  .brand > a {
+    font-size: 20px;
+    color: black;
+    font-family: serif;
+    font-weight:700;
+    text-decoration: none;
+    border-bottom: none;
+  }
+
+  .brand > a:active {
+    border-bottom: 2px solid black;
+  }
+
   .nav-container {
     position: absolute;
-    top: 26px;
+    top: 31px;
     left: 7px;
   }
   .nav-list {
     margin: 0;
-    display: flex;
-    flex-flow: wrap;
+    display: inline-flex;
     flex-direction: row;
     padding: 0;
+    overflow-x: auto;
+    height: 53px;
     list-style: none;
     position: relative;
     top: -37px;
-    left: -2px;
+    left: 2px;
+    width: 98vw !important;
     font-size: 7px;
-    justify-content: center;
     z-index: 10;
     width: 100%;
+    flex-flow: nowrap;
+    overflow-y: hidden;
+
+    li {
+      letter-spacing: 0.05em;
+      background: none;
+      padding: 4px 7px 4px 0px;
+      margin: 0px;
+      position: relative;
+      left: 23px;
+      top: 20px;
+    }
     a {
       text-transform: uppercase;
       color: #000;

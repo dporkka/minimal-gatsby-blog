@@ -1,5 +1,4 @@
-
-  .home-section {
+.home-section {
     position: relative;
     top: 20px;
   }
@@ -19,6 +18,9 @@
     position: relative;
     margin-left: auto;
     margin-right: auto;
+  }
+.link1 > a {
+      margin-left: 0px !important;
   }
  .hi {
     font-size: 26px;
@@ -74,8 +76,6 @@
     margin: 4px 0px 8px 0;
     
   }
-  .now-books {
-  }
   .now-line {
     margin-top: 65px;
     position: relative;
@@ -123,17 +123,30 @@
   .projects-section a {
       margin-left: 60px;
   }
-  .posts-section a {
-  }
   .contact-section {
       margin-left: 60px;
   }
-  .mail-text{
-      color: #006ce5;
-      font-size: 21px;
+  div.contact-section > p > a {
+    font-size: 24px;
   }
 .projects-h2 {
     display: none;
+}
+.fa-github {
+    position: relative;
+    top: -3px;
+}
+.fa-envelope {
+    position: relative;
+    top: -3px;
+}
+.fa-twitter {
+    position: relative;
+    top: -3px;
+}
+.fa-instagram {
+    position: relative;
+    top: -5px; 
 }
 .genomediv {
     height: auto;
