@@ -9,18 +9,6 @@
     Feature-Policy = "vibrate 'none'; geolocation 'none'; midi 'none'; notifications 'none'; push 'none'; sync-xhr 'none'; microphone 'none'; camera 'none'; magnetometer 'none'; gyroscope 'none'; speaker 'none'; vibrate 'none'; fullscreen 'none'; payment 'none'"
     X-Content-Type-Options = "nosniff"
 
-[[redirects]]
-  from = "http://davidporkka.com/*"
-  to = "https://www.davidporkka.com/:splat"
-  status = 301
-  force = true
-
-  [[redirects]]
-  from = "https://davidporkka.com/*"
-  to = "https://www.davidporkka.com/:splat"
-  status = 301
-  force = true
-
 [build.processing]
   skip_processing = false
 [build.processing.css]
@@ -34,7 +22,3 @@
 [build.processing.images]
   compress = true
 
-  [[plugins]]
-package = "netlify-plugin-a11y"
-
-resultMode = "warn"
