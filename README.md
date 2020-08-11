@@ -10,7 +10,7 @@
 
 Kick off your project with this simple site. This site ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
-To see it in action, visit [https://www.davidporkka.com]
+To see it in action, visit https://minimal-gatsby.netlify.app/
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
@@ -85,6 +85,8 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 11. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
 
 12. **`README.md`**: A text file containing useful reference information about your project.
+
+13. **`robots.txt`**: A text file that prevents search engines from indexing this site. Delete this file after you're ready to show your site to the world.
 
 ## 🎓 Learning Gatsby
 
