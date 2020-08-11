@@ -1,16 +1,18 @@
 .site-footer {
-  background-color: #f2f2f2;
-  color: white;
+  color: #8D7A4D;
   text-align: center;
-  width: 101%;
+  width: 100vw;
   overflow-x: auto;
-  margin-top: 20px;
+  background: #fedb8b;
+  margin-top: -12px;
 }
-
+.copyright {
+  color: #8D7A4D;
+}
 .container {
-  margin: 0 auto;
-  max-width: 750px;
-  padding: 0rem;
+  margin-right: auto;
+  max-width: 500px;
+  margin-left: auto;
 }
 .navList {
   overflow-x: auto;
@@ -24,7 +26,7 @@
   position: relative;
   // top: -37px;
   // left: 2px;
-  width: 98vw !important;
+  width: 100vw !important;
   font-size: 7px;
   z-index: 10;
   width: 100%;
@@ -77,6 +79,7 @@ a.dp  {
     color: #3f3844;
     left: -35px;
     text-decoration: none;
+    text-align: center;
     // display: none;
   }
   a:hover {
@@ -97,6 +100,11 @@ div > li > * {
   position: relative;
   padding: 10 0px;
 }
+/*----- envelope -----*/
+li:nth-child(6) > a > svg {
+  position: relative;
+  top: -2px;
+}
 a .fa-twitter {
   color: black;
   width: 25px;
@@ -108,6 +116,17 @@ a > .fa-github {
   width: 25px;
   display: block;
   position: relative;
+}
+
+/*----- Medium ------*/
+li:nth-child(4) > a > svg {
+  position: relative;
+  top: -2px;
+}
+/*---- LinkedIn ------*/
+li:nth-child(5) > a > svg {
+  position: relative;
+  top: -5px;
 }
 @media(max-width: 1100px) and (min-width:501px){
   .brand > li > a {
@@ -125,6 +144,7 @@ a > .fa-github {
       // color: gray;
       left: -32px;
       text-decoration: none;
+      text-align: center;
     }
     a:hover {
       border-bottom: 2px solid black;
@@ -154,17 +174,18 @@ a > .fa-github {
 
 .nav-container {
   position: relative;
-  bottom: -14px;
-  left: 3px;
-  padding: 0px;
-  right: 0;
-  margin: -2px;
-  background: hsla(0,0%,100%,.1);
-  border-top: 1px solid hsla(0,0%,100%,.1);
+    bottom: -14px;
+    left: 3px;
+    padding: 0px;
+    right: 0;
+    margin: -2px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 .socialicons {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
+  width: 245px;
 }
 .nav-list {
     margin: 0;
@@ -178,6 +199,7 @@ a > .fa-github {
     font-size: 7px;
     justify-content: center;
     z-index: 10;
+    max-width: 500px;
 
   li {
     letter-spacing: 0.05em;
@@ -219,6 +241,16 @@ a > .fa-github {
     position: relative;
     bottom: -14px;
     left: 4px;
+  }
+  .site-footer {
+    color: white;
+    text-align: center;
+    width: 100vw;
+    overflow-x: auto;
+    background: #fedb8b;
+    margin-top: 34px;
+    margin-bottom: -5px;
+    padding-top: 5px;
   }
   .nav-list {
     margin: 0;

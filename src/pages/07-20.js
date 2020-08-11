@@ -7,7 +7,7 @@ const Now = () => {
     <Layout>
       <Metadata title="June-2020" description="What I was doing" />
       <div className="now-section">
-      <h2>June 2020</h2>
+      <h2>July 2020</h2>
 <p><strong>Working on</strong>&nbsp;</p>
 <p><a href="https://www.nulango.com">Nulango</a>, a language learning web app with my brother, and adding some new content and features to this site.</p>
 

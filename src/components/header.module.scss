@@ -153,14 +153,11 @@ a.dp  {
 }
 
 .nav-container {
-  position: absolute;
-  top: 37px;
-  left: 3px;
-  padding: 0px;
-  right: 0;
-  margin: -2px;
-  background: hsla(0,0%,100%,.1);
-  border-top: 1px solid hsla(0,0%,100%,.1);
+  position: relative;
+  top: -28px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
 }
 
 .nav-list {
@@ -255,7 +252,7 @@ a.dp  {
   }
 
   .brand > a {
-    font-size: 20px;
+    font-size: 22px;
     color: black;
     font-family: serif;
     font-weight:700;
@@ -268,12 +265,14 @@ a.dp  {
   }
 
   .nav-container {
-    position: absolute;
-    top: 31px;
-    left: 7px;
+    position: relative;
+    top: -6px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
   }
   .nav-list {
-    margin: 0;
+    margin-left: 3px;
     display: inline-flex;
     flex-direction: row;
     padding: 0;
@@ -283,7 +282,7 @@ a.dp  {
     position: relative;
     top: -37px;
     left: 2px;
-    width: 98vw !important;
+    width: 100vw !important;
     font-size: 7px;
     z-index: 10;
     width: 100%;

@@ -13,11 +13,18 @@
     white-space: nowrap;
     border: 0px;
   }
+  .p1 {
+      margin-right: auto;
+      margin-left: auto;
+      max-width: 500px;
+      text-align: center;
+  }
   .now-section {
     width: 600px;
     position: relative;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 60px;
   }
 .link1 > a {
       margin-left: 0px !important;
@@ -28,11 +35,25 @@
  }
  .intro {
     margin-right: auto;
-    margin-left: 60px;
+    margin-left: auto;
+    position: relative;
+    width: 100vw;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    background: #fedb8b;
+    text-align: center;
+    margin-top: 23px;
  }
  .projectsHeader {
     font-size: 26px;
-    margin-left: 60px;
+    max-width: 225px;
+    margin-right: auto;
+    margin-left: auto;
+ }
+ .projects-section-inner {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
  }
   .learn-about-me {
     padding: 6px 11px;
@@ -48,8 +69,11 @@
     color: #006ce5;
   }
   .about-section-two {
+    width: 600px;
     position: relative;
-    left: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
   }
   .projectsBtn {
     padding: 6px 11px;
@@ -57,7 +81,7 @@
     border-radius: 4px;
     font-size: 17px;
     border: 1px solid black;
-    margin-left: 59px;
+    margin-left: 0px;
   }
   .seeProjects {
       border-bottom: none !important;
@@ -73,7 +97,7 @@
     border-radius: 4px;
     font-size: 17px;
     border: 1px solid black;
-    margin: 4px 0px 8px 0;
+    margin: 4px 2px 5px 0px;
     
   }
   .now-line {
@@ -90,44 +114,73 @@
       margin-left:63px;
   }
   .projects-section {
+    width: 500px;
     position: relative;
-    top: 36px;
-    left: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+  }
+  .projects-section-index {
+    background: #DCEDC1;
+    padding-top: 15px;
+    padding-bottom: 29px;
+    margin-bottom: -25px;
   }
   .projects-section-index > p {
     font-size: 19px;
-    width: 600px;
+    width: 500px;
     max-width: 90%;
     margin-top: 6px;
     margin-right: auto;
     margin-left: auto;
   }
   .posts-section {
-    margin-left: 60px;
+    max-width: 100vw;
+    background: #FFF68F;
+    position: relative;
+    padding-top: 15px;
+    padding-bottom: 29px;
   }
+  .posts-section-inner {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    padding-left: 10px;
+}
   .project1 {
-    margin-left: 60px;
+    margin-left: 0px;
   }
   .project2 {
-    margin-left: 60px;
+    margin-left: 0px;
   }
   .project3 {
-    margin-left: 60px;
+    margin-left: 0px;
   }
 
   .projects-section > p {
     font-size: 18px;
-    max-width: 575px;
-    margin-left: 60px;
+    max-width: 500px;
+    margin-left: 0px;
   }
   .projects-section a {
-      margin-left: 60px;
+      margin-left: 0px;
   }
   .contact-section {
-      margin-left: 60px;
+      text-align: center;
+      margin-right: auto;
+      margin-left: auto;
+      width: 100vw;
+      margin-top: 7px;
+      margin-bottom: 3px;
+      position: relative;
+      background: #c9f3e0;
+      padding-top: 15px;
+      padding-bottom: 29px;
+      top: -10px;
   }
   div.contact-section > p > a {
     font-size: 24px;
+    color: black;
   }
 .projects-h2 {
     display: none;
@@ -156,36 +209,96 @@
      height: auto;
      overflow-x: auto;
  }
+ .latestPosts {
+    margin-right: auto;
+    margin-left: auto;
+    width: 480px;
+    text-align: left;
+}
+.toolsSection {
+    width: 600px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
 @media(max-width:550px){
     .dp {
     font-size: 22px !important;
     bottom: 4px;
     left: -3px;
     }
+    .p1 {
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 90%;
+        text-align: left;
+        padding-left: 10px;
+    }
+    .toolsSection {
+    position: relative;
+    left: 0px;
+    top: 17px;
+    margin-bottom: -15px;
+    margin-left: 7px;
+    margin-right: 7px;
+    }
     .now-section {
-        width: 99%;
+        position: relative;
+        max-width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 60px;
+        margin-bottom: -20px;
+    }
+    .about-section-two {
+        left: 0px;
+        top: 2px;
+        margin-bottom: -15px;
+        max-width: 90%;
         position: relative;
         margin-left: auto;
         margin-right: auto;
-    }
-    .about-section-two {
-        position: relative;
-        left: 0px;
+        margin-top: 60px;
     }
     .intro {
         margin-right: auto;
-        margin-left: 0px;
+        margin-left: auto;
+        width: 100vw;
      }
     .projects-section {
         position: relative;
-        top: 22px;
-        left: 0px;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 500px;
+        margin-top: 45px;
     }
+    .projects-section-inner {
+        margin-right: auto;
+        margin-left: auto;
+        padding-left: 12px;
+        padding-bottom: 27px;
+        max-width: 90%;
+      }
     .top-div {
         margin-left:0px;
     }
+    .posts-section-inner {
+        max-width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 10px;
+    }
     .posts-section {
-        margin-left: 0px;
+        margin-right: auto;
+        margin-left: auto;
+        width: 100vw;
+        background: #FFF68F;
+        position: relative;
+        top: -5px;
+        padding-top: 5px;
+        padding-bottom: 21px;
       }
     .posts-section a {
         position: relative;
@@ -193,7 +306,13 @@
     }
     .projects-section-index {
         position: relative;
-        top: 6px;
+        top: -4px;
+        background: #DCEDC1;
+        padding-top: 10px;
+        padding-bottom: 14px;
+        margin-right: auto;
+        margin-left: auto;
+        width: 100vw;
     }
     .posts-section-index a {
         position: relative;
@@ -203,6 +322,7 @@
     .mail-text {
         text-align: center;
         margin-left: 0px;
+        margin-top: -10px;
     }
     #contactme {
         text-align: center;
@@ -210,15 +330,24 @@
     .contact-section {
         text-align: center;
         margin-left: 0px;
+        margin-top: -19px;
+        margin-bottom: -41px;
+        position: relative;
+        background: #c9f3e0;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        top: -7px;
     }
     .latestPosts {
         text-align: center;
+        font-size: 26px;
+        max-width: 100%;
     }
     .projects-section-index > p {
         font-size: 18px;
         width: 575px;
         margin-left: 0px;
-        max-width: 99%;
+        max-width: 100vw;
 
     }
     .projects-section > p {
@@ -228,7 +357,6 @@
     }
     .projectsHeader {
         text-align: center;
-        margin-left: 0px;
     }
     .projects-section-index a {
         margin-left: 0px;
@@ -241,4 +369,10 @@
     .projectsBtn {
         margin-left: 0px;
     }
+}
+@media(max-width: 350px){
+    .hi {
+        font-size: 22px;
+        font-weight: 600;
+}
 }
