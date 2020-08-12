@@ -19,6 +19,16 @@ This site ships with the main Gatsby configuration files you might need to get u
 
 To see it in action, visit https://minimal-gatsby.netlify.app/
 
+## What makes this template unique: 
+
+  * Lightweight - is only 168.2 kb, and can be reduced to below 100kb by removing image processing package.
+
+  * Fast - loads in .3 seconds on desktop and .9 seconds on mobile. Rated 100 for both mobile and desktop on Lighthouse. 
+
+  * Future-proof - site can function without JS with little change in function. 
+
+  * Unopinionated styles - no external CSS stuff besides SASS
+
 
 ## 🚀 Quick start
 

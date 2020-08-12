@@ -14,10 +14,10 @@
     border: 0px;
   }
   .p1 {
-      margin-right: auto;
-      margin-left: auto;
-      max-width: 500px;
-      text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: max-content;
+    text-align: center;
   }
   .now-section {
     width: 600px;
