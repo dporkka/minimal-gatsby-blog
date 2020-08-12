@@ -5,7 +5,7 @@ import Metadata from "../components/metadata"
 const Now = () => {
   return (
     <Layout>
-      <Metadata title="June-2020" description="What I was doing" />
+      <Metadata title="July-2020" description="What I was doing" />
       <div className="now-section">
       <h2>July 2020</h2>
 <p><strong>Working on</strong>&nbsp;</p>

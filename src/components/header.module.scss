@@ -122,7 +122,6 @@ a.dp  {
       color: #3f3844;
       position: relative;
       top: 6px;
-      // color: gray;
       left: -32px;
       text-decoration: none;
     }
@@ -161,17 +160,18 @@ a.dp  {
 }
 
 .nav-list {
-    margin: 0;
-    display: flex;
-    flex-flow: wrap;
-    flex-direction: row;
-    padding: 0;
-    list-style: none;
-    position: relative;
-    top: -18px;
-    font-size: 7px;
-    justify-content: center;
-    z-index: 10;
+  margin: 0;
+  display: flex;
+  flex-flow: wrap;
+  flex-direction: row;
+  padding: 0;
+  list-style: none;
+  position: relative;
+  top: -18px;
+  font-size: 7px;
+  justify-content: center;
+  z-index: 10;
+  height: 4px;
 
   li {
     letter-spacing: 0.05em;
@@ -240,8 +240,8 @@ a.dp  {
     position: relative;
   }
   .dp {
-    left: -6px !important;
-    font-size: 24px !important;
+    left: -6px;
+    font-size: 24px;
     bottom: 8px;
   }
   .brand {
@@ -252,18 +252,18 @@ a.dp  {
   }
 
   .brand > a {
-    font-size: 22px;
+    font-size: 29px;
     color: black;
+    position: relative;
     font-family: serif;
-    font-weight:700;
+    font-weight: 700;
     text-decoration: none;
     border-bottom: none;
-  }
-
+    top: 5px;
+}
   .brand > a:active {
     border-bottom: 2px solid black;
   }
-
   .nav-container {
     position: relative;
     top: -6px;
@@ -280,9 +280,9 @@ a.dp  {
     height: 53px;
     list-style: none;
     position: relative;
-    top: -37px;
+    top: -18px;
     left: 2px;
-    width: 100vw !important;
+    width: 100vw;
     font-size: 7px;
     z-index: 10;
     width: 100%;
@@ -292,11 +292,11 @@ a.dp  {
     li {
       letter-spacing: 0.05em;
       background: none;
-      padding: 4px 7px 4px 0px;
+      padding: 0px 7px 4px 0px;
       margin: 0px;
       position: relative;
       left: 23px;
-      top: 20px;
+      top: 2px;
     }
     a {
       text-transform: uppercase;
@@ -355,7 +355,6 @@ a.dp  {
     border-radius: 7px;
   }}
 }
-
 @media(min-width:800px){
 .nav-list li {
     letter-spacing: 0.05em;
@@ -365,14 +364,11 @@ a.dp  {
     position: relative;
     left: 0%;
     top: 20px;
-  
 a {
   text-transform: uppercase;
   color: #000;
-  // font-size: 16px;
   opacity: 0.8;
   font-weight:400;
-  // position: relative;
   left: -3px;
   text-decoration: none;
   border-bottom: none;
@@ -389,12 +385,6 @@ a:active {
   display: inline-block;
 }
 
-svg.fa-chevron-down {
-  position: absolute !important;
-  bottom: 18px !important;
-  left: 54px !important;
-  height: 16px !important;
-}
 .dropdownList {
   display: none;
   position: absolute;

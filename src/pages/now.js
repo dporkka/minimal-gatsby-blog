@@ -39,7 +39,7 @@ href="https://www.nulango.com">Nulango</a>, a language learning web app with my 
 <hr className="now-line"></hr>
 
 <p><strong>The Now Archive:</strong></p>
-<p><a href="/06-20">June 2020</a></p>
+<p><a href="/07-20">July 2020</a></p>
 
 <hr className="now-line"></hr>
 

@@ -5,7 +5,7 @@
   position: relative;
   top: 10px;
   h1 {
-    font-size: 24px;
+    font-size: 22px;
     margin: 39px 0 10px;
     text-align: center;
   }
@@ -21,5 +21,13 @@
   max-height: 800px;
   max-width: 1000px;
   margin-bottom: 25px;
-
+}
+@media(max-width: 800px){
+  .content {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 90%;
+  position: relative;
+  top: 10px;
+}
 }

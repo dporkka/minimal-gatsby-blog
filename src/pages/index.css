@@ -46,7 +46,8 @@
  }
  .projectsHeader {
     font-size: 26px;
-    max-width: 225px;
+    width: 500px;
+    text-align: left;
     margin-right: auto;
     margin-left: auto;
  }
@@ -121,7 +122,7 @@
     margin-top: 60px;
   }
   .projects-section-index {
-    background: #DCEDC1;
+    background: #ceffc9;
     padding-top: 15px;
     padding-bottom: 29px;
     margin-bottom: -25px;
@@ -145,7 +146,6 @@
     margin-left: auto;
     margin-right: auto;
     max-width: 500px;
-    padding-left: 10px;
 }
   .project1 {
     margin-left: 0px;
@@ -212,7 +212,7 @@
  .latestPosts {
     margin-right: auto;
     margin-left: auto;
-    width: 480px;
+    width: 500px;
     text-align: left;
 }
 .toolsSection {
@@ -288,7 +288,6 @@
         max-width: 90%;
         margin-left: auto;
         margin-right: auto;
-        padding-left: 10px;
     }
     .posts-section {
         margin-right: auto;
@@ -307,7 +306,7 @@
     .projects-section-index {
         position: relative;
         top: -4px;
-        background: #DCEDC1;
+        background: #ceffc9;
         padding-top: 10px;
         padding-bottom: 14px;
         margin-right: auto;
@@ -357,6 +356,7 @@
     }
     .projectsHeader {
         text-align: center;
+        width: 100%;
     }
     .projects-section-index a {
         margin-left: 0px;
