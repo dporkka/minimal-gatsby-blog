@@ -1,8 +1,8 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
 
-<a href="https://www.minimal-gatsby.netlify.app">
-<img alt="minimal gatsby home page screenshot" width="800" src="https://www.minimal-gatsby.netlify.app/minimal-gatsby-home.jpg" /> </a>
+<a href="https://minimal-gatsby.netlify.app">
+<img alt="minimal gatsby home page screenshot" width="800" src="https://minimal-gatsby.netlify.app/minimal-gatsby-home.jpg" /> </a>
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
