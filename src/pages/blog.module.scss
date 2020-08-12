@@ -1,7 +1,10 @@
 .content {
   font-size: 23px;
-  margin: 39px 0 10px;
-  text-align: center;
+  // margin: 39px 0 10px;
+  // text-align: center;
+  margin-right: auto;
+    margin-left: auto;
+    max-width: 600px;
 }
 .posts {
   list-style-type: none;
@@ -59,3 +62,15 @@
     }
   }
 }
+@media(max-width: 500px){
+  content {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 90%;
+}}
+@media(min-width: 610px){
+  content {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 600px;
+}}
