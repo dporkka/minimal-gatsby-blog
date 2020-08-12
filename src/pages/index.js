@@ -1,6 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import Metadata from "../components/metadata"
+import styles from "./index.css"
 // import { ThemeToggler } from 'gatsby-plugin-dark-mode'
 
 // class MyComponent extends React.Component {

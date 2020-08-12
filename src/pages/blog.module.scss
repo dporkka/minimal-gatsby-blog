@@ -7,9 +7,11 @@
   list-style-type: none;
   margin-top: 0;
   position: relative;
-  padding: 0;
-  top: -30px;
-  left: -9px;
+  padding-bottom: 33px;
+  top: -9px;
+  left: -21px;
+  text-align: left;
+  margin-bottom: 15px;
 }
 .post {
   padding-bottom: 7px;
@@ -24,7 +26,7 @@
     text-align: center;
     a {
       color: #202020;
-      // border-bottom: 2px solid blue;
+      font-size: 19px;
     }
   }
 }
@@ -49,7 +51,6 @@
   padding: 20px 0;
   a {
     color: #555;
-    // padding: 8px 12px;
     border: 2px solid black;
     &:hover {
       color: #164bc5;
