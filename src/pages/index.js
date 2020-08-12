@@ -30,7 +30,7 @@ const Index = () => {
       <div className="home-section">
       <div className="intro">
       <h2 className="hi">Welcome to my digital abode</h2>
-      <h3 className="p1">I'm a web developer who writes. This is where I share things I'm working on and thinking about. </h3>
+      <h3 className="p1">I'm a web developer and writer who aims to build useful things.</h3>
       {/* <a href="/now"><button className="learn-about-me">What I&rsquo;m doing now</button></a> */}
       </div>
       <div className="posts-section">
