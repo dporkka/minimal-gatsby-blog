@@ -30,12 +30,12 @@ href="https://www.nulango.com">Nulango</a>, a language learning web app with my 
 
 <p><strong>Learning</strong></p>
 
-<p>React JS (Javascript library),&nbsp; Amazon Web Services, 11ty static site generator, and Mandarin.</p>
+<p>React JS (Javascript library),&nbsp; Amazon Web Services, and Mandarin.</p>
 
 <p><strong>Latest Good Reads</strong></p>
 
 <p><a href="https://waitbutwhy.com/">Wait But Why Articles</a></p>
-<p>Been binge reading articles on this wide-ranging, sometimes informative, often profound, yet usually light-hearted site. </p>
+<p>Been binge reading articles on this wide-ranging, sometimes informative, often profound, yet light-hearted site. </p>
 <hr className="now-line"></hr>
 
 <p><strong>The Now Archive:</strong></p>

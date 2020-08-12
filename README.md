@@ -1,27 +1,32 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
+
+<img alt="minimal gatsby home page screenshot" width="1000" src="https://www.minimal-gatsby.netlify.app/static/minimal-gatsby-home.jpg" />
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
+
 </p>
 <h1 align="center">
-  David Porkka's / Gatsby's hello-world starter
+  Minimal Gatsby Starter Template
 </h1>
 
-Kick off your project with this simple site. This site ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+
+*This README is based on the hello-world GATSBY JS starter here https://github.com/gatsbyjs/gatsby-starter-hello-world/blob/master/README.md*
+
+This site ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 To see it in action, visit https://minimal-gatsby.netlify.app/
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the hello-world starter.
+    Use the command line to create a new site, referencing this project.
 
     ```shell
-    # create a new Gatsby site using the hello-world starter
+    # create a new Gatsby site using the minimal-gatsby-blog template
     gatsby new my-new-blog https://github.com/dporkka/minimal-gatsby-blog
     ```
 
@@ -31,7 +36,6 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     ```shell
     cd my-new-blog/
-    yarn (this installs the Yarn package manager)
     gatsby develop
     ```
     remove the ```robots.txt``` file to allow search engines to index your site
