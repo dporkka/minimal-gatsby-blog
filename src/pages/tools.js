@@ -12,9 +12,9 @@ const Tools = () => {
 <h2 id="-computer-setup-"><strong>Computer Setup</strong></h2>
 <h3 id="-logitech-k750-solar-powered-wireless-keyboard-https-www-logitech-com-en-us-product-wireless-solar-keyboard-k750-mac-"><a href="https://www.logitech.com/en-us/product/wireless-solar-keyboard-k750-mac">Logitech K750 solar-powered, wireless keyboard</a></h3>
 <p>Love the feeling and sound of these keys. I could be doing my taxes on this thing and it would sound like I was performing an ASMR album. It&#39;s also very reliable, I&#39;ve never had to wait for it to charge or do any troubleshooting.</p>
-<h3 id="large-wooden-desk">Large Wooden Desk</h3>
+<h3 id="desk" className="underline">Large Wooden Desk</h3>
 <p>I&#39;ve tried all sorts of desks over the years, from the fancy semi-automated standing desk, to modern glass desks, and temporarily settled on a very boring, but functional 4&#39;W x 3&#39;L wooden desk, that I&#39;m happily using now.  Don&#39;t know the brand, but it&#39;s not too unique from other wooden desks. </p>
-<h3 id="generic-computer-chair">Generic Computer Chair</h3>
+<h3 id="chair" className="underline">Generic Computer Chair</h3>
 <p>Can&#39;t find a brand on this one either, but as long as you find a chair that&#39;s comfortable, height-adjustable, pelvic-tiltable (the pelvic-tilt is crucial to avoid back pain and find the partner of your dreams), breathable, ergonomic, and mesh backed, to allow your back to breath after long, intense coding sessions; then you should be good. </p>
 <h3 id="-hp-25f-external-monitor-https-www-bestbuy-com-site-hp-25f-25-ips-led-fhd-freesync-monitor-natural-silver-6219204-p-skuid-6219204-"><a href="https://www.bestbuy.com/site/hp-25f-25-ips-led-fhd-freesync-monitor-natural-silver/6219204.p?skuId=6219204">HP 25f external monitor</a></h3>
 <p>This 25&quot; monitor helps me be more productive when doing web development work and most other online things. </p>
@@ -23,9 +23,9 @@ const Tools = () => {
 <h3 id="-rav-external-power-pack-https-www-amazon-com-ravpower-portable-charger-26800mah-external-dp-b012niqg5e-"><a href="https://www.amazon.com/RAVPower-Portable-Charger-26800mAh-External/dp/B012NIQG5E">Rav External Power Pack</a></h3>
 <p>Battery pack to charge my appliances. Comes in handy when traveling or if I forget to charge something and don&#39;t feel like waiting for it to charge in a wall socket. It holds 26.8 amp hours of power.</p>
 <h2 id="-text-editing-"><strong>Text Editing</strong></h2>
-<h3 id="google-docs-and-sheets">Google Docs and Sheets</h3>
+<h3 id="google-docs-and-sheets" className="underline">Google Docs and Sheets</h3>
 <p>I love having everything in the cloud (and locally). It makes accessing all my documents easy from any computer, and also makes me feel good, knowing that if I spill coffee on my computer, my documents will live on.</p>
-<h3 id="apple-notes">Apple Notes</h3>
+<h3 id="apple-notes" className="underline">Apple Notes</h3>
 <p>Speedy, simple, and has a search function. Very reliable.</p>
 <h3 id="-visual-studio-code-https-code-visualstudio-com-"><a href="https://code.visualstudio.com/">Visual Studio Code</a></h3>
 <p>Tried a lot of editors, but like using VS Code the best becuase of its extensive feautures, plugins, built-in terminal, and appearance.</p>

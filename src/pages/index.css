@@ -222,6 +222,10 @@
     margin-right: auto;
     margin-top: 60px;
 }
+.underline {
+    border-bottom: 2px solid black;
+    width: max-content;
+}
 @media(max-width:550px){
     .dp {
     font-size: 22px !important;
