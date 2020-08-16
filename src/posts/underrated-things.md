@@ -28,4 +28,4 @@ If you’re going on a camping trip where you need to pack light, yet also jam i
 
 I'll keep adding to this list of underrated things. Stay tuned.
 
-This story was originally published at (davidporkka.com)[https://www.davidporkka.com]
+This story was originally published at [davidporkka.com](https://www.davidporkka.com)

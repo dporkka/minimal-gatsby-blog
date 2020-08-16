@@ -7,7 +7,7 @@ const About = () => {
     <Layout>
       <Metadata title="About" description="Get to know me" />
     <div className="about-section-two">
-     <h2 className="about-me-h2">About Me:</h2>
+     <h2 className="about-me-h2"><strong>About Me:</strong></h2>
      <h3><strong>Work</strong></h3>
      <p>Web development, writing, and entrepreneurial <a href="/projects">ventures</a></p>
      <h3><strong>Hobbies</strong></h3>

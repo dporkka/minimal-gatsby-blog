@@ -10,5 +10,5 @@ He was my best friend, until now. As we exchanged glances, he grimaced with ange
 
 ----------------------------
 
-This story was originally published at (davidporkka.com)[https://www.davidporkka.com]
+This story was originally published at [davidporkka.com](https://www.davidporkka.com)
 

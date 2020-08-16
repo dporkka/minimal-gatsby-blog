@@ -35,3 +35,7 @@ Instead of having a sticky header or footer that takes up space and distracts us
 ### **Static over Dynamic**
 
 I want this blog to be as low-maintenance and fast as possible. By having a static site, I don't have to worry about updating a bunch of plugins or 3rd party software to keep it working. 
+
+--------------------------
+
+This story was originally published at [davidporkka.com](https://www.davidporkka.com)

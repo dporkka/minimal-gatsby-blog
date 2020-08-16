@@ -39,6 +39,12 @@ a > h2 {
   border-bottom: 2px solid #006ce5;
   display: contents;
 }
+h3 > a {
+  text-decoration: none;
+  color: #006ce5;
+  border-bottom: 2px solid #006ce5;
+  font-size: 18px;
+}
 p > a {
   text-decoration: none;
   color: #006ce5;

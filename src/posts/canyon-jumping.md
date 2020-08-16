@@ -173,4 +173,4 @@ Start working on your goals.
 
 ----------------------------------
 
-This article was originally published at (davidporkka.com)[https://www.davidporkka.com]
+This story was originally published at [davidporkka.com](https://www.davidporkka.com)

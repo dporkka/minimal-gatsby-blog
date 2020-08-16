@@ -7,7 +7,7 @@ const Tools = () => {
     <Layout>
       <Metadata title="Tools" description="Tools I Use" />
         <div className="toolsSection">
-        <h1 id="tools">Tools</h1>
+        <h1 id="tools"><strong>Tools</strong></h1>
 <p>The tools I use for web development, design, image editing, security, and fun.</p>
 <h2 id="-computer-setup-"><strong>Computer Setup</strong></h2>
 <h3 id="-logitech-k750-solar-powered-wireless-keyboard-https-www-logitech-com-en-us-product-wireless-solar-keyboard-k750-mac-"><a href="https://www.logitech.com/en-us/product/wireless-solar-keyboard-k750-mac">Logitech K750 solar-powered, wireless keyboard</a></h3>

@@ -241,6 +241,13 @@
     border-bottom: 2px solid black;
     width: max-content;
 }
+.error-page {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: max-content;
+    position: relative;
+    top: 50px;
+}
 @media(max-width:550px){
     .dp {
     font-size: 22px !important;
