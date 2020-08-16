@@ -14,7 +14,7 @@ href="https://www.nulango.com">Nulango</a>, a language learning web app with my 
 
 <p className="p-section"><strong>Recent Adventures</strong></p>
 
-<p>Took a roadtrip to Pictured Rock National Park in Wisconsin and did some hiking, then continued the road trip up to the Upper Peninsula in Michigan and snorkeled for agates in the clear, cold waters of Lake Superior. Highly recommend both activities.
+<p>Took a roadtrip to Pictured Rock National Park in Michigan and did some hiking, then continued the road trip up to the Upper Peninsula in Michigan and snorkeled for agates in the clear, cold waters of Lake Superior. Highly recommend both activities.
 </p>
 
 <p className="p-section"><strong>New Routines</strong></p>
