@@ -37,7 +37,7 @@ const Index = () => {
       <h2 className="latestPosts"><strong>Latest Posts</strong></h2>
       <div className="posts-section-inner">
       <a href="/blog/design-choices"><h2>Design Choices for This Site</h2></a><br></br><br></br>
-      <a href="/blog/linguini-war"><h2>The Linguini War of the 1950s</h2></a><br></br><br></br>
+      <a href="/blog/shoe-flash"><h2>The Shoe Flash</h2></a><br></br><br></br>
       <a href="/blog/underrated-things"><h2>Things That are Underrated</h2></a><br></br><br></br>
       
       <a href="/blog"><button className="see-posts">See All Posts</button></a>
